@@ -1,0 +1,1534 @@
+Отчёт о компьютере
+MINGW64_NT-10.0-19041 RTS247UVL02 3.0.7-338.x86_64 2019-11-21 23:07 UTC x86_64 Msys
+Запущенные программы:
+
+
+
+      PID    PPID    PGID     WINPID   TTY         UID    STIME COMMAND
+     1536    1535    1536       8000  pty1     1049722 11:05:54 /usr/bin/bash
+S    1639    1536    1639      10896  pty1     1049722 11:12:50 /usr/bin/vim
+S    1505       1    1505       7932  pty0     1049722 10:57:49 /usr/bin/vim
+     1535       1    1535      12324  ?        1049722 11:05:54 /usr/bin/mintty
+     1690    1536    1690       9160  pty1     1049722 11:20:39 /usr/bin/ps
+Процессор:
+
+processor	: 0
+vendor_id	: GenuineIntel
+cpu family	: 6
+model		: 158
+model name	: Intel(R) Core(TM) i5-9400 CPU @ 2.90GHz
+stepping	: 10
+cpu MHz		: 2904.000
+cache size	: 9216 KB
+physical id	: 0
+siblings	: 6
+core id		: 0
+cpu cores	: 3
+apicid		: 0
+initial apicid	: 0
+fpu		: yes
+fpu_exception	: yes
+cpuid level	: 22
+wp		: yes
+flags		: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush dts acpi mmx fxsr sse sse2 ss ht tm pbe pni dtes64 monitor ds_cpl vmx est tm2 ssse3 fma cx16 xtpr pdcm sse4_1 sse4_2 x2apic movbe popcnt aes xsave osxsave avx f16c rdrand lahf_lm ida arat epb xsaveopt pln pts dtherm fsgsbase tsc_adjust bmi1 avx2 smep bmi2 erms invpcid mpx rdseed adx smap clflushopt
+clflush size	: 64
+cache_alignment	: 64
+address sizes	: 39 bits physical, 48 bits virtual
+power management:
+
+processor	: 1
+vendor_id	: GenuineIntel
+cpu family	: 6
+model		: 158
+model name	: Intel(R) Core(TM) i5-9400 CPU @ 2.90GHz
+stepping	: 10
+cpu MHz		: 2904.000
+cache size	: 9216 KB
+physical id	: 0
+siblings	: 6
+core id		: 1
+cpu cores	: 3
+apicid		: 2
+initial apicid	: 2
+fpu		: yes
+fpu_exception	: yes
+cpuid level	: 22
+wp		: yes
+flags		: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush dts acpi mmx fxsr sse sse2 ss ht tm pbe pni dtes64 monitor ds_cpl vmx est tm2 ssse3 fma cx16 xtpr pdcm sse4_1 sse4_2 x2apic movbe popcnt aes xsave osxsave avx f16c rdrand lahf_lm ida arat epb xsaveopt pln pts dtherm fsgsbase tsc_adjust bmi1 avx2 smep bmi2 erms invpcid mpx rdseed adx smap clflushopt
+clflush size	: 64
+cache_alignment	: 64
+address sizes	: 39 bits physical, 48 bits virtual
+power management:
+
+processor	: 2
+vendor_id	: GenuineIntel
+cpu family	: 6
+model		: 158
+model name	: Intel(R) Core(TM) i5-9400 CPU @ 2.90GHz
+stepping	: 10
+cpu MHz		: 2904.000
+cache size	: 9216 KB
+physical id	: 0
+siblings	: 6
+core id		: 2
+cpu cores	: 3
+apicid		: 4
+initial apicid	: 4
+fpu		: yes
+fpu_exception	: yes
+cpuid level	: 22
+wp		: yes
+flags		: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush dts acpi mmx fxsr sse sse2 ss ht tm pbe pni dtes64 monitor ds_cpl vmx est tm2 ssse3 fma cx16 xtpr pdcm sse4_1 sse4_2 x2apic movbe popcnt aes xsave osxsave avx f16c rdrand lahf_lm ida arat epb xsaveopt pln pts dtherm fsgsbase tsc_adjust bmi1 avx2 smep bmi2 erms invpcid mpx rdseed adx smap clflushopt
+clflush size	: 64
+cache_alignment	: 64
+address sizes	: 39 bits physical, 48 bits virtual
+power management:
+
+processor	: 3
+vendor_id	: GenuineIntel
+cpu family	: 6
+model		: 158
+model name	: Intel(R) Core(TM) i5-9400 CPU @ 2.90GHz
+stepping	: 10
+cpu MHz		: 2904.000
+cache size	: 9216 KB
+physical id	: 0
+siblings	: 6
+core id		: 3
+cpu cores	: 3
+apicid		: 6
+initial apicid	: 6
+fpu		: yes
+fpu_exception	: yes
+cpuid level	: 22
+wp		: yes
+flags		: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush dts acpi mmx fxsr sse sse2 ss ht tm pbe pni dtes64 monitor ds_cpl vmx est tm2 ssse3 fma cx16 xtpr pdcm sse4_1 sse4_2 x2apic movbe popcnt aes xsave osxsave avx f16c rdrand lahf_lm ida arat epb xsaveopt pln pts dtherm fsgsbase tsc_adjust bmi1 avx2 smep bmi2 erms invpcid mpx rdseed adx smap clflushopt
+clflush size	: 64
+cache_alignment	: 64
+address sizes	: 39 bits physical, 48 bits virtual
+power management:
+
+processor	: 4
+vendor_id	: GenuineIntel
+cpu family	: 6
+model		: 158
+model name	: Intel(R) Core(TM) i5-9400 CPU @ 2.90GHz
+stepping	: 10
+cpu MHz		: 2904.000
+cache size	: 9216 KB
+physical id	: 0
+siblings	: 6
+core id		: 4
+cpu cores	: 3
+apicid		: 8
+initial apicid	: 8
+fpu		: yes
+fpu_exception	: yes
+cpuid level	: 22
+wp		: yes
+flags		: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush dts acpi mmx fxsr sse sse2 ss ht tm pbe pni dtes64 monitor ds_cpl vmx est tm2 ssse3 fma cx16 xtpr pdcm sse4_1 sse4_2 x2apic movbe popcnt aes xsave osxsave avx f16c rdrand lahf_lm ida arat epb xsaveopt pln pts dtherm fsgsbase tsc_adjust bmi1 avx2 smep bmi2 erms invpcid mpx rdseed adx smap clflushopt
+clflush size	: 64
+cache_alignment	: 64
+address sizes	: 39 bits physical, 48 bits virtual
+power management:
+
+processor	: 5
+vendor_id	: GenuineIntel
+cpu family	: 6
+model		: 158
+model name	: Intel(R) Core(TM) i5-9400 CPU @ 2.90GHz
+stepping	: 10
+cpu MHz		: 2904.000
+cache size	: 9216 KB
+physical id	: 0
+siblings	: 6
+core id		: 5
+cpu cores	: 3
+apicid		: 10
+initial apicid	: 10
+fpu		: yes
+fpu_exception	: yes
+cpuid level	: 22
+wp		: yes
+flags		: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush dts acpi mmx fxsr sse sse2 ss ht tm pbe pni dtes64 monitor ds_cpl vmx est tm2 ssse3 fma cx16 xtpr pdcm sse4_1 sse4_2 x2apic movbe popcnt aes xsave osxsave avx f16c rdrand lahf_lm ida arat epb xsaveopt pln pts dtherm fsgsbase tsc_adjust bmi1 avx2 smep bmi2 erms invpcid mpx rdseed adx smap clflushopt
+clflush size	: 64
+cache_alignment	: 64
+address sizes	: 39 bits physical, 48 bits virtual
+power management:
+Память:
+
+MemTotal:        8037420 kB
+MemFree:         4203560 kB
+HighTotal:             0 kB
+HighFree:              0 kB
+LowTotal:        8037420 kB
+LowFree:         4203560 kB
+SwapTotal:       8126464 kB
+SwapFree:        7990820 kB
+Свободная память:				
+Filesystem            Size  Used Avail Use% Mounted on
+C:/Program Files/Git  931G   90G  841G  10% /
+Z:                    1,4T  1,4T   74G  95% /z
+Текстовых файлов всего:
+
+ 173 1080 6016 file.txt
+Список:
+
+/z/1_course/3431101_00001/Molkov/test_polytech/file.txt
+/z/1_course/3431101_00001/Novikov/lesson4/test_polytechnick/otchet.txt
+/z/1_course/3431101_00001/Sokolov/Git/etc/install-options.txt
+/z/1_course/3431101_00001/Sokolov/Git/etc/package-versions.txt
+/z/1_course/3431101_00001/Sokolov/Git/LICENSE.txt
+/z/1_course/3431101_00001/Sokolov/Git/mingw64/doc/git-credential-manager/LICENSE.txt
+/z/1_course/3431101_00001/Sokolov/Git/mingw64/share/antiword/8859-1.txt
+/z/1_course/3431101_00001/Sokolov/Git/mingw64/share/antiword/8859-10.txt
+/z/1_course/3431101_00001/Sokolov/Git/mingw64/share/antiword/8859-11.txt
+/z/1_course/3431101_00001/Sokolov/Git/mingw64/share/antiword/8859-13.txt
+/z/1_course/3431101_00001/Sokolov/Git/mingw64/share/antiword/8859-14.txt
+/z/1_course/3431101_00001/Sokolov/Git/mingw64/share/antiword/8859-15.txt
+/z/1_course/3431101_00001/Sokolov/Git/mingw64/share/antiword/8859-16.txt
+/z/1_course/3431101_00001/Sokolov/Git/mingw64/share/antiword/8859-2.txt
+/z/1_course/3431101_00001/Sokolov/Git/mingw64/share/antiword/8859-3.txt
+/z/1_course/3431101_00001/Sokolov/Git/mingw64/share/antiword/8859-4.txt
+/z/1_course/3431101_00001/Sokolov/Git/mingw64/share/antiword/8859-5.txt
+/z/1_course/3431101_00001/Sokolov/Git/mingw64/share/antiword/8859-6.txt
+/z/1_course/3431101_00001/Sokolov/Git/mingw64/share/antiword/8859-7.txt
+/z/1_course/3431101_00001/Sokolov/Git/mingw64/share/antiword/8859-8.txt
+/z/1_course/3431101_00001/Sokolov/Git/mingw64/share/antiword/8859-9.txt
+/z/1_course/3431101_00001/Sokolov/Git/mingw64/share/antiword/cp1250.txt
+/z/1_course/3431101_00001/Sokolov/Git/mingw64/share/antiword/cp1251.txt
+/z/1_course/3431101_00001/Sokolov/Git/mingw64/share/antiword/cp1252.txt
+/z/1_course/3431101_00001/Sokolov/Git/mingw64/share/antiword/cp437.txt
+/z/1_course/3431101_00001/Sokolov/Git/mingw64/share/antiword/cp850.txt
+/z/1_course/3431101_00001/Sokolov/Git/mingw64/share/antiword/cp852.txt
+/z/1_course/3431101_00001/Sokolov/Git/mingw64/share/antiword/cp862.txt
+/z/1_course/3431101_00001/Sokolov/Git/mingw64/share/antiword/cp864.txt
+/z/1_course/3431101_00001/Sokolov/Git/mingw64/share/antiword/cp866.txt
+/z/1_course/3431101_00001/Sokolov/Git/mingw64/share/antiword/koi8-r.txt
+/z/1_course/3431101_00001/Sokolov/Git/mingw64/share/antiword/koi8-u.txt
+/z/1_course/3431101_00001/Sokolov/Git/mingw64/share/antiword/MacCyrillic.txt
+/z/1_course/3431101_00001/Sokolov/Git/mingw64/share/antiword/MacRoman.txt
+/z/1_course/3431101_00001/Sokolov/Git/mingw64/share/antiword/roman.txt
+/z/1_course/3431101_00001/Sokolov/Git/mingw64/share/antiword/UTF-8.txt
+/z/1_course/3431101_00001/Sokolov/Git/mingw64/share/doc/connect/manual.txt
+/z/1_course/3431101_00001/Sokolov/Git/mingw64/share/doc/xz/examples/00_README.txt
+/z/1_course/3431101_00001/Sokolov/Git/mingw64/share/doc/xz/faq.txt
+/z/1_course/3431101_00001/Sokolov/Git/mingw64/share/doc/xz/history.txt
+/z/1_course/3431101_00001/Sokolov/Git/mingw64/share/doc/xz/lzma-file-format.txt
+/z/1_course/3431101_00001/Sokolov/Git/mingw64/share/doc/xz/xz-file-format.txt
+/z/1_course/3431101_00001/Sokolov/Git/mingw64/share/git/builtins.txt
+/z/1_course/3431101_00001/Sokolov/Git/usr/share/gnupg/help.be.txt
+/z/1_course/3431101_00001/Sokolov/Git/usr/share/gnupg/help.ca.txt
+/z/1_course/3431101_00001/Sokolov/Git/usr/share/gnupg/help.cs.txt
+/z/1_course/3431101_00001/Sokolov/Git/usr/share/gnupg/help.da.txt
+/z/1_course/3431101_00001/Sokolov/Git/usr/share/gnupg/help.de.txt
+/z/1_course/3431101_00001/Sokolov/Git/usr/share/gnupg/help.el.txt
+/z/1_course/3431101_00001/Sokolov/Git/usr/share/gnupg/help.eo.txt
+/z/1_course/3431101_00001/Sokolov/Git/usr/share/gnupg/help.es.txt
+/z/1_course/3431101_00001/Sokolov/Git/usr/share/gnupg/help.et.txt
+/z/1_course/3431101_00001/Sokolov/Git/usr/share/gnupg/help.fi.txt
+/z/1_course/3431101_00001/Sokolov/Git/usr/share/gnupg/help.fr.txt
+/z/1_course/3431101_00001/Sokolov/Git/usr/share/gnupg/help.gl.txt
+/z/1_course/3431101_00001/Sokolov/Git/usr/share/gnupg/help.hu.txt
+/z/1_course/3431101_00001/Sokolov/Git/usr/share/gnupg/help.id.txt
+/z/1_course/3431101_00001/Sokolov/Git/usr/share/gnupg/help.it.txt
+/z/1_course/3431101_00001/Sokolov/Git/usr/share/gnupg/help.ja.txt
+/z/1_course/3431101_00001/Sokolov/Git/usr/share/gnupg/help.nb.txt
+/z/1_course/3431101_00001/Sokolov/Git/usr/share/gnupg/help.pl.txt
+/z/1_course/3431101_00001/Sokolov/Git/usr/share/gnupg/help.pt.txt
+/z/1_course/3431101_00001/Sokolov/Git/usr/share/gnupg/help.pt_BR.txt
+/z/1_course/3431101_00001/Sokolov/Git/usr/share/gnupg/help.ro.txt
+/z/1_course/3431101_00001/Sokolov/Git/usr/share/gnupg/help.ru.txt
+/z/1_course/3431101_00001/Sokolov/Git/usr/share/gnupg/help.sk.txt
+/z/1_course/3431101_00001/Sokolov/Git/usr/share/gnupg/help.sv.txt
+/z/1_course/3431101_00001/Sokolov/Git/usr/share/gnupg/help.tr.txt
+/z/1_course/3431101_00001/Sokolov/Git/usr/share/gnupg/help.txt
+/z/1_course/3431101_00001/Sokolov/Git/usr/share/gnupg/help.zh_CN.txt
+/z/1_course/3431101_00001/Sokolov/Git/usr/share/gnupg/help.zh_TW.txt
+/z/1_course/3431101_00001/Sokolov/Git/usr/share/licenses/ncurses/license.txt
+/z/1_course/3431101_00001/Sokolov/Git/usr/share/licenses/vim/license.txt
+/z/1_course/3431101_00001/Sokolov/Git/usr/share/perl5/core_perl/unicore/Blocks.txt
+/z/1_course/3431101_00001/Sokolov/Git/usr/share/perl5/core_perl/unicore/NamedSequences.txt
+/z/1_course/3431101_00001/Sokolov/Git/usr/share/perl5/core_perl/unicore/SpecialCasing.txt
+/z/1_course/3431101_00001/Sokolov/Git/usr/share/vim/vim82/autoload/README.txt
+/z/1_course/3431101_00001/Sokolov/Git/usr/share/vim/vim82/colors/README.txt
+/z/1_course/3431101_00001/Sokolov/Git/usr/share/vim/vim82/compiler/README.txt
+/z/1_course/3431101_00001/Sokolov/Git/usr/share/vim/vim82/doc/arabic.txt
+/z/1_course/3431101_00001/Sokolov/Git/usr/share/vim/vim82/doc/autocmd.txt
+/z/1_course/3431101_00001/Sokolov/Git/usr/share/vim/vim82/doc/change.txt
+/z/1_course/3431101_00001/Sokolov/Git/usr/share/vim/vim82/doc/channel.txt
+/z/1_course/3431101_00001/Sokolov/Git/usr/share/vim/vim82/doc/cmdline.txt
+/z/1_course/3431101_00001/Sokolov/Git/usr/share/vim/vim82/doc/debug.txt
+/z/1_course/3431101_00001/Sokolov/Git/usr/share/vim/vim82/doc/debugger.txt
+/z/1_course/3431101_00001/Sokolov/Git/usr/share/vim/vim82/doc/develop.txt
+/z/1_course/3431101_00001/Sokolov/Git/usr/share/vim/vim82/doc/diff.txt
+/z/1_course/3431101_00001/Sokolov/Git/usr/share/vim/vim82/doc/digraph.txt
+/z/1_course/3431101_00001/Sokolov/Git/usr/share/vim/vim82/doc/editing.txt
+/z/1_course/3431101_00001/Sokolov/Git/usr/share/vim/vim82/doc/eval.txt
+/z/1_course/3431101_00001/Sokolov/Git/usr/share/vim/vim82/doc/farsi.txt
+/z/1_course/3431101_00001/Sokolov/Git/usr/share/vim/vim82/doc/filetype.txt
+/z/1_course/3431101_00001/Sokolov/Git/usr/share/vim/vim82/doc/fold.txt
+/z/1_course/3431101_00001/Sokolov/Git/usr/share/vim/vim82/doc/ft_ada.txt
+/z/1_course/3431101_00001/Sokolov/Git/usr/share/vim/vim82/doc/ft_rust.txt
+/z/1_course/3431101_00001/Sokolov/Git/usr/share/vim/vim82/doc/ft_sql.txt
+/z/1_course/3431101_00001/Sokolov/Git/usr/share/vim/vim82/doc/gui.txt
+/z/1_course/3431101_00001/Sokolov/Git/usr/share/vim/vim82/doc/gui_w32.txt
+/z/1_course/3431101_00001/Sokolov/Git/usr/share/vim/vim82/doc/gui_x11.txt
+/z/1_course/3431101_00001/Sokolov/Git/usr/share/vim/vim82/doc/hangulin.txt
+/z/1_course/3431101_00001/Sokolov/Git/usr/share/vim/vim82/doc/hebrew.txt
+/z/1_course/3431101_00001/Sokolov/Git/usr/share/vim/vim82/doc/help.txt
+/z/1_course/3431101_00001/Sokolov/Git/usr/share/vim/vim82/doc/helphelp.txt
+/z/1_course/3431101_00001/Sokolov/Git/usr/share/vim/vim82/doc/howto.txt
+/z/1_course/3431101_00001/Sokolov/Git/usr/share/vim/vim82/doc/if_cscop.txt
+/z/1_course/3431101_00001/Sokolov/Git/usr/share/vim/vim82/doc/if_lua.txt
+/z/1_course/3431101_00001/Sokolov/Git/usr/share/vim/vim82/doc/if_mzsch.txt
+/z/1_course/3431101_00001/Sokolov/Git/usr/share/vim/vim82/doc/if_ole.txt
+/z/1_course/3431101_00001/Sokolov/Git/usr/share/vim/vim82/doc/if_perl.txt
+/z/1_course/3431101_00001/Sokolov/Git/usr/share/vim/vim82/doc/if_pyth.txt
+/z/1_course/3431101_00001/Sokolov/Git/usr/share/vim/vim82/doc/if_ruby.txt
+/z/1_course/3431101_00001/Sokolov/Git/usr/share/vim/vim82/doc/if_sniff.txt
+/z/1_course/3431101_00001/Sokolov/Git/usr/share/vim/vim82/doc/if_tcl.txt
+/z/1_course/3431101_00001/Sokolov/Git/usr/share/vim/vim82/doc/indent.txt
+/z/1_course/3431101_00001/Sokolov/Git/usr/share/vim/vim82/doc/index.txt
+/z/1_course/3431101_00001/Sokolov/Git/usr/share/vim/vim82/doc/insert.txt
+/z/1_course/3431101_00001/Sokolov/Git/usr/share/vim/vim82/doc/intro.txt
+/z/1_course/3431101_00001/Sokolov/Git/usr/share/vim/vim82/doc/map.txt
+/z/1_course/3431101_00001/Sokolov/Git/usr/share/vim/vim82/doc/mbyte.txt
+/z/1_course/3431101_00001/Sokolov/Git/usr/share/vim/vim82/doc/message.txt
+/z/1_course/3431101_00001/Sokolov/Git/usr/share/vim/vim82/doc/mlang.txt
+/z/1_course/3431101_00001/Sokolov/Git/usr/share/vim/vim82/doc/motion.txt
+/z/1_course/3431101_00001/Sokolov/Git/usr/share/vim/vim82/doc/netbeans.txt
+/z/1_course/3431101_00001/Sokolov/Git/usr/share/vim/vim82/doc/options.txt
+/z/1_course/3431101_00001/Sokolov/Git/usr/share/vim/vim82/doc/os_390.txt
+/z/1_course/3431101_00001/Sokolov/Git/usr/share/vim/vim82/doc/os_amiga.txt
+/z/1_course/3431101_00001/Sokolov/Git/usr/share/vim/vim82/doc/os_beos.txt
+/z/1_course/3431101_00001/Sokolov/Git/usr/share/vim/vim82/doc/os_dos.txt
+/z/1_course/3431101_00001/Sokolov/Git/usr/share/vim/vim82/doc/os_haiku.txt
+/z/1_course/3431101_00001/Sokolov/Git/usr/share/vim/vim82/doc/os_mac.txt
+/z/1_course/3431101_00001/Sokolov/Git/usr/share/vim/vim82/doc/os_mint.txt
+/z/1_course/3431101_00001/Sokolov/Git/usr/share/vim/vim82/doc/os_msdos.txt
+/z/1_course/3431101_00001/Sokolov/Git/usr/share/vim/vim82/doc/os_os2.txt
+/z/1_course/3431101_00001/Sokolov/Git/usr/share/vim/vim82/doc/os_qnx.txt
+/z/1_course/3431101_00001/Sokolov/Git/usr/share/vim/vim82/doc/os_risc.txt
+/z/1_course/3431101_00001/Sokolov/Git/usr/share/vim/vim82/doc/os_unix.txt
+/z/1_course/3431101_00001/Sokolov/Git/usr/share/vim/vim82/doc/os_vms.txt
+/z/1_course/3431101_00001/Sokolov/Git/usr/share/vim/vim82/doc/os_win32.txt
+/z/1_course/3431101_00001/Sokolov/Git/usr/share/vim/vim82/doc/pattern.txt
+/z/1_course/3431101_00001/Sokolov/Git/usr/share/vim/vim82/doc/pi_getscript.txt
+/z/1_course/3431101_00001/Sokolov/Git/usr/share/vim/vim82/doc/pi_gzip.txt
+/z/1_course/3431101_00001/Sokolov/Git/usr/share/vim/vim82/doc/pi_logipat.txt
+/z/1_course/3431101_00001/Sokolov/Git/usr/share/vim/vim82/doc/pi_netrw.txt
+/z/1_course/3431101_00001/Sokolov/Git/usr/share/vim/vim82/doc/pi_paren.txt
+/z/1_course/3431101_00001/Sokolov/Git/usr/share/vim/vim82/doc/pi_spec.txt
+/z/1_course/3431101_00001/Sokolov/Git/usr/share/vim/vim82/doc/pi_tar.txt
+/z/1_course/3431101_00001/Sokolov/Git/usr/share/vim/vim82/doc/pi_vimball.txt
+/z/1_course/3431101_00001/Sokolov/Git/usr/share/vim/vim82/doc/pi_zip.txt
+/z/1_course/3431101_00001/Sokolov/Git/usr/share/vim/vim82/doc/popup.txt
+/z/1_course/3431101_00001/Sokolov/Git/usr/share/vim/vim82/doc/print.txt
+/z/1_course/3431101_00001/Sokolov/Git/usr/share/vim/vim82/doc/quickfix.txt
+/z/1_course/3431101_00001/Sokolov/Git/usr/share/vim/vim82/doc/quickref.txt
+/z/1_course/3431101_00001/Sokolov/Git/usr/share/vim/vim82/doc/quotes.txt
+/z/1_course/3431101_00001/Sokolov/Git/usr/share/vim/vim82/doc/recover.txt
+/z/1_course/3431101_00001/Sokolov/Git/usr/share/vim/vim82/doc/remote.txt
+/z/1_course/3431101_00001/Sokolov/Git/usr/share/vim/vim82/doc/repeat.txt
+/z/1_course/3431101_00001/Sokolov/Git/usr/share/vim/vim82/doc/rileft.txt
+/z/1_course/3431101_00001/Sokolov/Git/usr/share/vim/vim82/doc/russian.txt
+/z/1_course/3431101_00001/Sokolov/Git/usr/share/vim/vim82/doc/scroll.txt
+/z/1_course/3431101_00001/Sokolov/Git/usr/share/vim/vim82/doc/sign.txt
+/z/1_course/3431101_00001/Sokolov/Git/usr/share/vim/vim82/doc/spell.txt
+/z/1_course/3431101_00001/Sokolov/Git/usr/share/vim/vim82/doc/sponsor.txt
+/z/1_course/3431101_00001/Sokolov/Git/usr/share/vim/vim82/doc/starting.txt
+/z/1_course/3431101_00001/Sokolov/Git/usr/share/vim/vim82/doc/syntax.txt
+/z/1_course/3431101_00001/Sokolov/Git/usr/share/vim/vim82/doc/tabpage.txt
+/z/1_course/3431101_00001/Sokolov/Git/usr/share/vim/vim82/doc/tagsrch.txt
+/z/1_course/3431101_00001/Sokolov/Git/usr/share/vim/vim82/doc/term.txt
+/z/1_course/3431101_00001/Sokolov/Git/usr/share/vim/vim82/doc/terminal.txt
+/z/1_course/3431101_00001/Sokolov/Git/usr/share/vim/vim82/doc/testing.txt
+/z/1_course/3431101_00001/Sokolov/Git/usr/share/vim/vim82/doc/textprop.txt
+/z/1_course/3431101_00001/Sokolov/Git/usr/share/vim/vim82/doc/tips.txt
+/z/1_course/3431101_00001/Sokolov/Git/usr/share/vim/vim82/doc/todo.txt
+/z/1_course/3431101_00001/Sokolov/Git/usr/share/vim/vim82/doc/uganda.txt
+/z/1_course/3431101_00001/Sokolov/Git/usr/share/vim/vim82/doc/undo.txt
+/z/1_course/3431101_00001/Sokolov/Git/usr/share/vim/vim82/doc/usr_01.txt
+/z/1_course/3431101_00001/Sokolov/Git/usr/share/vim/vim82/doc/usr_02.txt
+/z/1_course/3431101_00001/Sokolov/Git/usr/share/vim/vim82/doc/usr_03.txt
+/z/1_course/3431101_00001/Sokolov/Git/usr/share/vim/vim82/doc/usr_04.txt
+/z/1_course/3431101_00001/Sokolov/Git/usr/share/vim/vim82/doc/usr_05.txt
+/z/1_course/3431101_00001/Sokolov/Git/usr/share/vim/vim82/doc/usr_06.txt
+/z/1_course/3431101_00001/Sokolov/Git/usr/share/vim/vim82/doc/usr_07.txt
+/z/1_course/3431101_00001/Sokolov/Git/usr/share/vim/vim82/doc/usr_08.txt
+/z/1_course/3431101_00001/Sokolov/Git/usr/share/vim/vim82/doc/usr_09.txt
+/z/1_course/3431101_00001/Sokolov/Git/usr/share/vim/vim82/doc/usr_10.txt
+/z/1_course/3431101_00001/Sokolov/Git/usr/share/vim/vim82/doc/usr_11.txt
+/z/1_course/3431101_00001/Sokolov/Git/usr/share/vim/vim82/doc/usr_12.txt
+/z/1_course/3431101_00001/Sokolov/Git/usr/share/vim/vim82/doc/usr_20.txt
+/z/1_course/3431101_00001/Sokolov/Git/usr/share/vim/vim82/doc/usr_21.txt
+/z/1_course/3431101_00001/Sokolov/Git/usr/share/vim/vim82/doc/usr_22.txt
+/z/1_course/3431101_00001/Sokolov/Git/usr/share/vim/vim82/doc/usr_23.txt
+/z/1_course/3431101_00001/Sokolov/Git/usr/share/vim/vim82/doc/usr_24.txt
+/z/1_course/3431101_00001/Sokolov/Git/usr/share/vim/vim82/doc/usr_25.txt
+/z/1_course/3431101_00001/Sokolov/Git/usr/share/vim/vim82/doc/usr_26.txt
+/z/1_course/3431101_00001/Sokolov/Git/usr/share/vim/vim82/doc/usr_27.txt
+/z/1_course/3431101_00001/Sokolov/Git/usr/share/vim/vim82/doc/usr_28.txt
+/z/1_course/3431101_00001/Sokolov/Git/usr/share/vim/vim82/doc/usr_29.txt
+/z/1_course/3431101_00001/Sokolov/Git/usr/share/vim/vim82/doc/usr_30.txt
+/z/1_course/3431101_00001/Sokolov/Git/usr/share/vim/vim82/doc/usr_31.txt
+/z/1_course/3431101_00001/Sokolov/Git/usr/share/vim/vim82/doc/usr_32.txt
+/z/1_course/3431101_00001/Sokolov/Git/usr/share/vim/vim82/doc/usr_40.txt
+/z/1_course/3431101_00001/Sokolov/Git/usr/share/vim/vim82/doc/usr_41.txt
+/z/1_course/3431101_00001/Sokolov/Git/usr/share/vim/vim82/doc/usr_42.txt
+/z/1_course/3431101_00001/Sokolov/Git/usr/share/vim/vim82/doc/usr_43.txt
+/z/1_course/3431101_00001/Sokolov/Git/usr/share/vim/vim82/doc/usr_44.txt
+/z/1_course/3431101_00001/Sokolov/Git/usr/share/vim/vim82/doc/usr_45.txt
+/z/1_course/3431101_00001/Sokolov/Git/usr/share/vim/vim82/doc/usr_90.txt
+/z/1_course/3431101_00001/Sokolov/Git/usr/share/vim/vim82/doc/usr_toc.txt
+/z/1_course/3431101_00001/Sokolov/Git/usr/share/vim/vim82/doc/various.txt
+/z/1_course/3431101_00001/Sokolov/Git/usr/share/vim/vim82/doc/version4.txt
+/z/1_course/3431101_00001/Sokolov/Git/usr/share/vim/vim82/doc/version5.txt
+/z/1_course/3431101_00001/Sokolov/Git/usr/share/vim/vim82/doc/version6.txt
+/z/1_course/3431101_00001/Sokolov/Git/usr/share/vim/vim82/doc/version7.txt
+/z/1_course/3431101_00001/Sokolov/Git/usr/share/vim/vim82/doc/version8.txt
+/z/1_course/3431101_00001/Sokolov/Git/usr/share/vim/vim82/doc/vim9.txt
+/z/1_course/3431101_00001/Sokolov/Git/usr/share/vim/vim82/doc/visual.txt
+/z/1_course/3431101_00001/Sokolov/Git/usr/share/vim/vim82/doc/vi_diff.txt
+/z/1_course/3431101_00001/Sokolov/Git/usr/share/vim/vim82/doc/windows.txt
+/z/1_course/3431101_00001/Sokolov/Git/usr/share/vim/vim82/doc/workshop.txt
+/z/1_course/3431101_00001/Sokolov/Git/usr/share/vim/vim82/ftplugin/README.txt
+/z/1_course/3431101_00001/Sokolov/Git/usr/share/vim/vim82/indent/README.txt
+/z/1_course/3431101_00001/Sokolov/Git/usr/share/vim/vim82/keymap/README.txt
+/z/1_course/3431101_00001/Sokolov/Git/usr/share/vim/vim82/lang/README.txt
+/z/1_course/3431101_00001/Sokolov/Git/usr/share/vim/vim82/macros/maze/README.txt
+/z/1_course/3431101_00001/Sokolov/Git/usr/share/vim/vim82/macros/README.txt
+/z/1_course/3431101_00001/Sokolov/Git/usr/share/vim/vim82/macros/urm/README.txt
+/z/1_course/3431101_00001/Sokolov/Git/usr/share/vim/vim82/pack/dist/opt/matchit/doc/matchit.txt
+/z/1_course/3431101_00001/Sokolov/Git/usr/share/vim/vim82/plugin/README.txt
+/z/1_course/3431101_00001/Sokolov/Git/usr/share/vim/vim82/rgb.txt
+/z/1_course/3431101_00001/Sokolov/Git/usr/share/vim/vim82/syntax/README.txt
+/z/1_course/3431101_00001/Sokolov/Git/usr/share/vim/vim82/tools/ccfilter_README.txt
+/z/1_course/3431101_00001/Sokolov/Git/usr/share/vim/vim82/tools/efm_filter.txt
+/z/1_course/3431101_00001/Sokolov/Git/usr/share/vim/vim82/tools/mve.txt
+/z/1_course/3431101_00001/Sokolov/Git/usr/share/vim/vim82/tools/README.txt
+/z/1_course/3431101_00001/Sokolov/Git/usr/share/vim/vim82/tools/vimspell.txt
+/z/1_course/3431101_00001/Sokolov/Git/usr/share/vim/vim82/tutor/README.el.cp737.txt
+/z/1_course/3431101_00001/Sokolov/Git/usr/share/vim/vim82/tutor/README.el.txt
+/z/1_course/3431101_00001/Sokolov/Git/usr/share/vim/vim82/tutor/README.txt
+/z/1_course/3431101_00001/Sokolov/tmp/lesson03/test_polytech/lyrics.txt
+/z/1_course/3431101_00001/Sokolov/tmp/lesson03/test_polytech/Кукла колдуна.txt
+/z/1_course/3431101_00001/Sokolov/tmp/lesson03/test_polytech/Кукла_колдуна.txt
+/z/1_course/3431101_00001/Sokolov/tmp/lesson03/test_polytech/отчёт.txt
+/z/1_course/3431101_00001/Stank/tmp/lesson03/test_polytech/lyrics.txt
+/z/1_course/3431101_00001/Stank/tmp/lesson03/test_polytech/otchot.txt
+/z/1_course/3431101_00001/Tkachenko/lessons03/test_polytech/otchet.txt
+/z/1_course/3431101_00001/Tkachenko/lessons03/test_polytech/переведи_меня_через_майдан.txt
+/z/1_course/3431102.00001/xachupitsi/ConsoleApplication1/ConsoleApplication1/ReadMe.txt
+/z/1_course/3431102.00001/xachupitsi/ConsoleApplication10/ConsoleApplication10/ReadMe.txt
+/z/1_course/3431102.00001/xachupitsi/ConsoleApplication11/ConsoleApplication11/ReadMe.txt
+/z/1_course/3431102.00001/xachupitsi/ConsoleApplication12/ConsoleApplication12/ReadMe.txt
+/z/1_course/3431102.00001/xachupitsi/ConsoleApplication13/ConsoleApplication13/ReadMe.txt
+/z/1_course/3431102.00001/xachupitsi/ConsoleApplication14/ConsoleApplication14/ReadMe.txt
+/z/1_course/3431102.00001/xachupitsi/ConsoleApplication15/ConsoleApplication15/ReadMe.txt
+/z/1_course/3431102.00001/xachupitsi/ConsoleApplication16/ConsoleApplication16/ReadMe.txt
+/z/1_course/3431102.00001/xachupitsi/ConsoleApplication17/ConsoleApplication17/ReadMe.txt
+/z/1_course/3431102.00001/xachupitsi/ConsoleApplication18/ConsoleApplication18/ReadMe.txt
+/z/1_course/3431102.00001/xachupitsi/ConsoleApplication19/ConsoleApplication19/ReadMe.txt
+/z/1_course/3431102.00001/xachupitsi/ConsoleApplication2/ConsoleApplication2/ReadMe.txt
+/z/1_course/3431102.00001/xachupitsi/ConsoleApplication20/ConsoleApplication20/ReadMe.txt
+/z/1_course/3431102.00001/xachupitsi/ConsoleApplication21/ConsoleApplication21/ReadMe.txt
+/z/1_course/3431102.00001/xachupitsi/ConsoleApplication22/ConsoleApplication22/ReadMe.txt
+/z/1_course/3431102.00001/xachupitsi/ConsoleApplication23/ConsoleApplication23/ReadMe.txt
+/z/1_course/3431102.00001/xachupitsi/ConsoleApplication24/ConsoleApplication24/ReadMe.txt
+/z/1_course/3431102.00001/xachupitsi/ConsoleApplication25/ConsoleApplication25/ReadMe.txt
+/z/1_course/3431102.00001/xachupitsi/ConsoleApplication26/ConsoleApplication26/ReadMe.txt
+/z/1_course/3431102.00001/xachupitsi/ConsoleApplication27/ConsoleApplication27/ReadMe.txt
+/z/1_course/3431102.00001/xachupitsi/ConsoleApplication3/ConsoleApplication3/ReadMe.txt
+/z/1_course/3431102.00001/xachupitsi/ConsoleApplication4/ConsoleApplication4/ReadMe.txt
+/z/1_course/3431102.00001/xachupitsi/ConsoleApplication5/ConsoleApplication5/ReadMe.txt
+/z/1_course/3431102.00001/xachupitsi/ConsoleApplication6/ConsoleApplication6/ReadMe.txt
+/z/1_course/3431102.00001/xachupitsi/ConsoleApplication7/ConsoleApplication7/ReadMe.txt
+/z/1_course/3431102.00001/xachupitsi/ConsoleApplication8/ConsoleApplication8/ReadMe.txt
+/z/1_course/3431102.00001/xachupitsi/ConsoleApplication9/ConsoleApplication9/ReadMe.txt
+/z/1_course/3431102.00001/xachupitsi/Win32Project1/Win32Project1/ReadMe.txt
+/z/1_course/3431102_00003/Рината)/Вывод-сборки.txt
+/z/1_course/3431102_00003/Рината)/Вывод-сборки1.txt
+/z/1_course/cs/test_polytech/lyrics.txt
+/z/2_course/3431101_80002/dfhhfhsdg/project_1/project_1.runs/impl_1/htr.txt
+/z/2_course/3431101_80002/dfhhfhsdg/project_1/project_1.runs/synth_1/htr.txt
+/z/2_course/3431101_80002/dfhhfhsdg/project_2/project_2.runs/impl_1/htr.txt
+/z/2_course/3431101_80002/dfhhfhsdg/project_2/project_2.runs/synth_1/htr.txt
+/z/2_course/3431101_80002/dfhhfhsdg/project_3/project_3.runs/impl_1/htr.txt
+/z/2_course/3431101_80002/dfhhfhsdg/project_3/project_3.runs/synth_1/htr.txt
+/z/2_course/3431101_80002/dfhhfhsdg/project_3/project_3.runs/synth_2/htr.txt
+/z/2_course/3431101_80002/dfhhfhsdg/project_3_3/project_3_3.runs/impl_1/htr.txt
+/z/2_course/3431101_80002/dfhhfhsdg/project_3_3/project_3_3.runs/synth_1/htr.txt
+/z/2_course/3431101_80002/dfhhfhsdg/project_4/project_4.runs/synth_1/htr.txt
+/z/2_course/3431101_80002/Korostin-Botashev/project_3_3/project_3_3.runs/impl_1/htr.txt
+/z/2_course/3431101_80002/Korostin-Botashev/project_3_3/project_3_3.runs/synth_1/htr.txt
+/z/2_course/3431101_80002/Mironova/lab_02_Mironova_Semina_Kolesov/lab_02_Mironova_Semina_Kolesov.runs/impl_1/htr.txt
+/z/2_course/3431101_80002/Mironova/lab_02_Mironova_Semina_Kolesov/lab_02_Mironova_Semina_Kolesov.runs/synth_1/htr.txt
+/z/2_course/3431101_80002/Mironova/lab_03_Mironova_Semina/project_1/project_1.runs/impl_1/htr.txt
+/z/2_course/3431101_80002/Mironova/lab_03_Mironova_Semina/project_1/project_1.runs/impl_2/htr.txt
+/z/2_course/3431101_80002/Mironova/lab_03_Mironova_Semina/project_1/project_1.runs/synth_1/htr.txt
+/z/2_course/3431101_80002/Mironova/lab_03_Mironova_Semina/project_1/project_1.runs/synth_2/htr.txt
+/z/2_course/3431101_80002/Mironova/lab_03_Mironova_Semina/project_3/project_3.runs/impl_1/htr.txt
+/z/2_course/3431101_80002/Mironova/lab_03_Mironova_Semina/project_3/project_3.runs/impl_2/htr.txt
+/z/2_course/3431101_80002/Mironova/lab_03_Mironova_Semina/project_3/project_3.runs/synth_1/htr.txt
+/z/2_course/3431101_80002/Mironova/lab_03_Mironova_Semina/project_3/project_3.runs/synth_2/htr.txt
+/z/2_course/3431101_80002/Mironova/lab_03_Mironova_Semina/project_3_2/project_3_2.runs/impl_1/htr.txt
+/z/2_course/3431101_80002/Mironova/lab_03_Mironova_Semina/project_3_2/project_3_2.runs/synth_1/htr.txt
+/z/2_course/3431101_80002/Mironova/lab_03_Mironova_Semina/project_3_3/project_3_3.runs/impl_1/htr.txt
+/z/2_course/3431101_80002/Mironova/lab_03_Mironova_Semina/project_3_3/project_3_3.runs/synth_1/htr.txt
+/z/2_course/3431101_80002/Mironova/lab_03_Mironova_Semina/project_3_4/project_3_4.runs/impl_1/htr.txt
+/z/2_course/3431101_80002/Mironova/lab_03_Mironova_Semina/project_3_4/project_3_4.runs/synth_1/htr.txt
+/z/2_course/3431101_80002/Mironova/project_1WSD/project_1WSD.ip_user_files/README.txt
+/z/2_course/3431101_80002/Mironova/project_1WSD/project_1WSD.runs/impl_1/htr.txt
+/z/2_course/3431101_80002/Mironova/project_1WSD/project_1WSD.runs/synth_1/htr.txt
+/z/2_course/3431101_80002/Mironova/project_1WSD/project_1WSD.sim/sim_1/behav/xsim.dir/TOP_behav/Compile_Options.txt
+/z/2_course/3431101_80002/Mironova/project_1WSD/project_1WSD.sim/sim_1/behav/xsim.dir/TOP_behav/TempBreakPointFile.txt
+/z/2_course/3431101_80002/Mironova/seven_input_coder_Mironova_Semina/seven_input_coder_Mironova_Semina.runs/impl_1/htr.txt
+/z/2_course/3431101_80002/Mironova/seven_input_coder_Mironova_Semina/seven_input_coder_Mironova_Semina.runs/impl_2/htr.txt
+/z/2_course/3431101_80002/Mironova/seven_input_coder_Mironova_Semina/seven_input_coder_Mironova_Semina.runs/synth_1/htr.txt
+/z/2_course/3431101_80002/Mironova/seven_input_coder_Mironova_Semina/seven_input_coder_Mironova_Semina.runs/synth_2/htr.txt
+/z/2_course/3431101_80002/Protopopov_Kolganov/3 laba/project_1/project_1.runs/impl_1/htr.txt
+/z/2_course/3431101_80002/Protopopov_Kolganov/3 laba/project_1/project_1.runs/impl_2/htr.txt
+/z/2_course/3431101_80002/Protopopov_Kolganov/3 laba/project_1/project_1.runs/synth_1/htr.txt
+/z/2_course/3431101_80002/Protopopov_Kolganov/3 laba/project_1/project_1.runs/synth_2/htr.txt
+/z/2_course/3431101_80002/Protopopov_Kolganov/3 laba/project_3.1/project_3.1.runs/impl_1/htr.txt
+/z/2_course/3431101_80002/Protopopov_Kolganov/3 laba/project_3.1/project_3.1.runs/impl_2/htr.txt
+/z/2_course/3431101_80002/Protopopov_Kolganov/3 laba/project_3.1/project_3.1.runs/synth_1/htr.txt
+/z/2_course/3431101_80002/Protopopov_Kolganov/3 laba/project_3.1/project_3.1.runs/synth_2/htr.txt
+/z/2_course/3431101_80002/Protopopov_Kolganov/3 laba/project_3.2/project_3.2.runs/impl_1/htr.txt
+/z/2_course/3431101_80002/Protopopov_Kolganov/3 laba/project_3.2/project_3.2.runs/synth_1/htr.txt
+/z/2_course/3431101_80002/Protopopov_Kolganov/3 laba/project_3.33/project_3.33.runs/synth_1/htr.txt
+/z/2_course/3431101_80002/Protopopov_Kolganov/project_2.runs/impl_1/htr.txt
+/z/2_course/3431101_80002/Protopopov_Kolganov/project_2.runs/synth_1/htr.txt
+/z/2_course/3431101_80002/Protopopov_Kolganov/project_21.runs/impl_1/htr.txt
+/z/2_course/3431101_80002/Protopopov_Kolganov/project_21.runs/synth_1/htr.txt
+/z/2_course/3431102_80002/Cherkassova R/1/lab1_ASP_CherkassovaR.txt
+/z/2_course/3431102_80002/Cherkassova R/1/song.txt
+/z/2_course/3431102_80002/IsupovaE/3431102.90002/lab1_ASP_IsupovaE.txt
+/z/2_course/3431102_80002/IsupovaE/3431102.90002/song.txt
+/z/2_course/3431102_80002/kristakinskaya/lab1_ASP_kristalinskaya.txt
+/z/2_course/3431102_80002/KrylovaM/lab1_ASP_KrylovaM.txt
+/z/2_course/3431102_80002/KrylovaM/song.txt
+/z/2_course/3431102_80002/Magnitskij.vv/lab1_ASP_MagnitskijV.txt
+/z/2_course/3431102_80002/Magnitskij.vv/song.txt
+/z/2_course/3431102_80002/reshetnikova.m/lab1_ASP_Surname_Reshetnikova/lab1_ASP_Surname_Reshetnikova.txt
+/z/2_course/3431102_80002/reshetnikova.m/lab1_ASP_Surname_Reshetnikova/song.txt
+/z/2_course/3431102_80002/ZhdanovDD/laba1/lab1_ASP_ZhdanovDenis.txt
+/z/2_course/3431102_80002/ZhdanovDD/laba1/song.txt
+/z/2_course/3431102_80002/Ермаков С.Е/1 лаба.txt
+/z/2_course/3431102_80002/Ермаков С.Е/123.txt
+/z/2_course/3431102_80002/Ермаков С.Е/lab1_ASP_ErmakovS.txt
+/z/2_course/3431102_80002/Ермаков С.Е/song.txt
+/z/2_course/3431102_80002/ИвановН/lab1_ASP_IvanovN.txt
+/z/2_course/3431102_80002/ИвановН/song.txt
+/z/2_course/3431102_80002/Фролов Роман/lab1_ASP_FrolovR.txt
+/z/2_course/3431102_80002/Фролов Роман/song.txt
+/z/3_course/3431101_80101/dniwe/potop/potop.runs/impl_1/htr.txt
+/z/3_course/3431101_80101/dniwe/potop/potop.runs/synth_1/htr.txt
+/z/3_course/3431101_80101/dniwe/zatop/zatop.runs/impl_1/htr.txt
+/z/3_course/3431101_80101/dniwe/zatop/zatop.runs/synth_1/htr.txt
+/z/3_course/3431101_80101/horoshist/horoshist.runs/impl_1/htr.txt
+/z/3_course/3431101_80101/horoshist/horoshist.runs/synth_1/htr.txt
+/z/3_course/3431101_80101/project_1.runs/impl_1/htr.txt
+/z/3_course/3431101_80101/project_1.runs/synth_1/htr.txt
+/z/3_course/3431101_80101/project_2.runs/impl_1/htr.txt
+/z/3_course/3431101_80101/project_2.runs/synth_1/htr.txt
+/z/3_course/3431101_80101/vdv/vdv.runs/impl_1/htr.txt
+/z/3_course/3431101_80101/vdv/vdv.runs/synth_1/htr.txt
+/z/3_course/3431101_80101/zanashix/zanashix.runs/synth_1/htr.txt
+/z/3_course/3431102_80101/Briushinin_Lopatin/lab1/lab1.runs/impl_1/htr.txt
+/z/3_course/3431102_80101/Briushinin_Lopatin/lab1/synth_1/htr.txt
+/z/3_course/3431102_80101/Briushinin_Lopatin/lab2/lab21/lab21.runs/impl_1/htr.txt
+/z/3_course/3431102_80101/Briushinin_Lopatin/lab2/lab21/lab21.runs/synth_1/htr.txt
+/z/3_course/3431102_80101/Briushinin_Lopatin/lab2/lab22/lab22.runs/impl_1/htr.txt
+/z/3_course/3431102_80101/Briushinin_Lopatin/lab2/lab22/lab22.runs/synth_1/htr.txt
+/z/3_course/3431102_80101/Briushinin_Lopatin/lab2/lab23_1/lab23_1.runs/impl_1/htr.txt
+/z/3_course/3431102_80101/Briushinin_Lopatin/lab2/lab23_1/lab23_1.runs/synth_1/htr.txt
+/z/3_course/3431102_80101/Briushinin_Lopatin/lab2/lab24/lab24.runs/impl_1/htr.txt
+/z/3_course/3431102_80101/Briushinin_Lopatin/lab2/lab24/lab24.runs/synth_1/htr.txt
+/z/3_course/3431102_80101/Briushinin_Lopatin/lab2/lab25/lab25.runs/impl_1/htr.txt
+/z/3_course/3431102_80101/Briushinin_Lopatin/lab2/lab25/lab25.runs/synth_1/htr.txt
+/z/3_course/3431102_80101/Briushinin_Lopatin/Lab3/lab31/lab31.runs/impl_1/htr.txt
+/z/3_course/3431102_80101/Briushinin_Lopatin/Lab3/lab31/lab31.runs/synth_1/htr.txt
+/z/3_course/3431102_80101/Briushinin_Lopatin/Lab3/lab32/lab32.runs/impl_1/htr.txt
+/z/3_course/3431102_80101/Briushinin_Lopatin/Lab3/lab32/lab32.runs/synth_1/htr.txt
+/z/3_course/3431102_80101/Briushinin_Lopatin/Lab3/lab33/lab33.runs/impl_1/htr.txt
+/z/3_course/3431102_80101/Briushinin_Lopatin/Lab3/lab33/lab33.runs/synth_1/htr.txt
+/z/3_course/3431102_80101/Briushinin_Lopatin/Lab3/lab34/lab34.runs/impl_1/htr.txt
+/z/3_course/3431102_80101/Briushinin_Lopatin/Lab3/lab34/lab34.runs/synth_1/htr.txt
+/z/3_course/3431102_80101/Briushinin_Lopatin/Lab3/lab35/lab35.ip_user_files/README.txt
+/z/3_course/3431102_80101/Briushinin_Lopatin/Lab3/lab35/lab35.runs/synth_1/htr.txt
+/z/3_course/3431102_80101/Briushinin_Lopatin/Lab3/lab35/lab35.sim/sim_1/behav/xsim.dir/test_bench_behav/Compile_Options.txt
+/z/3_course/3431102_80101/Briushinin_Lopatin/Lab3/lab35/lab35.sim/sim_1/behav/xsim.dir/test_bench_behav/TempBreakPointFile.txt
+/z/3_course/3431102_80101/Glukhikh_Zykova/lab1/project_1.runs/impl_1/htr.txt
+/z/3_course/3431102_80101/Glukhikh_Zykova/lab1/project_1.runs/synth_1/htr.txt
+/z/3_course/3431102_80101/Glukhikh_Zykova/lab2/project_2_1.runs/impl_1/htr.txt
+/z/3_course/3431102_80101/Glukhikh_Zykova/lab2/project_2_1.runs/synth_1/htr.txt
+/z/3_course/3431102_80101/Glukhikh_Zykova/lab2/project_2_3.runs/impl_1/htr.txt
+/z/3_course/3431102_80101/Glukhikh_Zykova/lab2/project_2_3.runs/synth_1/htr.txt
+/z/3_course/3431102_80101/Glukhikh_Zykova/lab2/project_2_4.runs/impl_1/htr.txt
+/z/3_course/3431102_80101/Glukhikh_Zykova/lab2/project_2_4.runs/synth_1/htr.txt
+/z/3_course/3431102_80101/Glukhikh_Zykova/lab2/project_2_5.runs/impl_1/htr.txt
+/z/3_course/3431102_80101/Glukhikh_Zykova/lab2/project_2_5.runs/synth_1/htr.txt
+/z/3_course/3431102_80101/Glukhikh_Zykova/lab3/project_3_1/project_3_1.runs/impl_1/htr.txt
+/z/3_course/3431102_80101/Glukhikh_Zykova/lab3/project_3_1/project_3_1.runs/synth_1/htr.txt
+/z/3_course/3431102_80101/Glukhikh_Zykova/lab3/project_3_2/project_3_2.runs/impl_1/htr.txt
+/z/3_course/3431102_80101/Glukhikh_Zykova/lab3/project_3_2/project_3_2.runs/synth_1/htr.txt
+/z/3_course/3431102_80101/Glukhikh_Zykova/lab3/project_3_3/project_3_3.runs/impl_1/htr.txt
+/z/3_course/3431102_80101/Glukhikh_Zykova/lab3/project_3_3/project_3_3.runs/synth_1/htr.txt
+/z/3_course/3431102_80101/Glukhikh_Zykova/lab3/project_3_4/project_3_4.runs/impl_1/htr.txt
+/z/3_course/3431102_80101/Glukhikh_Zykova/lab3/project_3_4/project_3_4.runs/synth_1/htr.txt
+/z/3_course/3431102_80101/Glukhikh_Zykova/project_2_2.runs/impl_1/htr.txt
+/z/3_course/3431102_80101/Glukhikh_Zykova/project_2_2.runs/synth_1/htr.txt
+/z/3_course/3431102_80101/Gureeva_Savin/lab1/lab1.runs/impl_1/htr.txt
+/z/3_course/3431102_80101/Gureeva_Savin/lab1/lab1.runs/synth_1/htr.txt
+/z/3_course/3431102_80101/Gureeva_Savin/lab2/lab2.runs/impl_1/htr.txt
+/z/3_course/3431102_80101/Gureeva_Savin/lab2/lab2.runs/synth_1/htr.txt
+/z/3_course/3431102_80101/Gureeva_Savin/lab2_2/lab2_2.runs/impl_1/htr.txt
+/z/3_course/3431102_80101/Gureeva_Savin/lab2_2/lab2_2.runs/synth_1/htr.txt
+/z/3_course/3431102_80101/Gureeva_Savin/lab2_3/lab2_3.runs/impl_1/htr.txt
+/z/3_course/3431102_80101/Gureeva_Savin/lab2_3/lab2_3.runs/synth_1/htr.txt
+/z/3_course/3431102_80101/Gureeva_Savin/lab2_4/lab2_4.runs/impl_1/htr.txt
+/z/3_course/3431102_80101/Gureeva_Savin/lab2_4/lab2_4.runs/synth_1/htr.txt
+/z/3_course/3431102_80101/Gureeva_Savin/lab2_5/lab2_5.runs/impl_1/htr.txt
+/z/3_course/3431102_80101/Gureeva_Savin/lab2_5/lab2_5.runs/synth_1/htr.txt
+/z/3_course/3431102_80101/Gureeva_Savin/lab_3/lab_3.ip_user_files/README.txt
+/z/3_course/3431102_80101/Gureeva_Savin/lab_3/lab_3.runs/impl_1/htr.txt
+/z/3_course/3431102_80101/Gureeva_Savin/lab_3/lab_3.runs/synth_1/htr.txt
+/z/3_course/3431102_80101/Gureeva_Savin/lab_3/lab_3.sim/sim_1/behav/xsim.dir/lab35_behav/Compile_Options.txt
+/z/3_course/3431102_80101/Gureeva_Savin/lab_3/lab_3.sim/sim_1/behav/xsim.dir/lab35_behav/TempBreakPointFile.txt
+/z/3_course/3431102_80101/Gureeva_Savin/project_1/project_1.runs/impl_1/htr.txt
+/z/3_course/3431102_80101/Gureeva_Savin/project_1/project_1.runs/synth_1/htr.txt
+/z/3_course/3431102_80101/Gureeva_Savin/project_2/project_2.runs/impl_1/htr.txt
+/z/3_course/3431102_80101/Gureeva_Savin/project_2/project_2.runs/impl_2/htr.txt
+/z/3_course/3431102_80101/Gureeva_Savin/project_2/project_2.runs/synth_1/htr.txt
+/z/3_course/3431102_80101/Gureeva_Savin/project_2/project_2.runs/synth_2/htr.txt
+/z/3_course/3431102_80101/Shadrivova_Teltikova/lab2/lab2.ip_user_files/README.txt
+/z/3_course/3431102_80101/Shadrivova_Teltikova/lab2/lab2.runs/impl_1/htr.txt
+/z/3_course/3431102_80101/Shadrivova_Teltikova/lab2/lab2.runs/synth_1/htr.txt
+/z/3_course/3431102_80101/Shadrivova_Teltikova/lab2/lab2.sim/sim_1/behav/xsim.dir/laba2_behav/Compile_Options.txt
+/z/3_course/3431102_80101/Shadrivova_Teltikova/lab2/lab2.sim/sim_1/behav/xsim.dir/laba2_behav/TempBreakPointFile.txt
+/z/3_course/3431102_80101/Shadrivova_Teltikova/lab2_2/lab2_2.runs/impl_1/htr.txt
+/z/3_course/3431102_80101/Shadrivova_Teltikova/lab2_2/lab2_2.runs/synth_1/htr.txt
+/z/3_course/3431102_80101/Shadrivova_Teltikova/lab2_3/lab2_3.runs/impl_1/htr.txt
+/z/3_course/3431102_80101/Shadrivova_Teltikova/lab2_3/lab2_3.runs/synth_1/htr.txt
+/z/3_course/3431102_80101/Shadrivova_Teltikova/lab2_4/lab2_4.runs/impl_1/htr.txt
+/z/3_course/3431102_80101/Shadrivova_Teltikova/lab2_4/lab2_4.runs/synth_1/htr.txt
+/z/3_course/3431102_80101/Shadrivova_Teltikova/Lab3_1/Lab3_1.runs/impl_1/htr.txt
+/z/3_course/3431102_80101/Shadrivova_Teltikova/Lab3_1/Lab3_1.runs/synth_1/htr.txt
+/z/3_course/3431102_80101/Shadrivova_Teltikova/Laba3_2/Laba3_2.runs/impl_1/htr.txt
+/z/3_course/3431102_80101/Shadrivova_Teltikova/Laba3_2/Laba3_2.runs/synth_1/htr.txt
+/z/3_course/3431102_80101/Shadrivova_Teltikova/project_2/project_2.runs/impl_1/htr.txt
+/z/3_course/3431102_80101/Shadrivova_Teltikova/project_2/project_2.runs/synth_1/htr.txt
+/z/3_course/3431102_80101/wsD/wsD.runs/impl_1/htr.txt
+/z/3_course/3431102_80101/wsD/wsD.runs/synth_1/htr.txt
+/z/3_course/3431102_80102/Bondarev_Polischuk/lab21/lab21.runs/impl_1/htr.txt
+/z/3_course/3431102_80102/Bondarev_Polischuk/lab21/lab21.runs/synth_1/htr.txt
+/z/3_course/3431102_80102/Bondarev_Polischuk/lab22/lab22.runs/impl_1/htr.txt
+/z/3_course/3431102_80102/Bondarev_Polischuk/lab22/lab22.runs/synth_1/htr.txt
+/z/3_course/3431102_80102/Bondarev_Polischuk/lab23/lab23.runs/impl_1/htr.txt
+/z/3_course/3431102_80102/Bondarev_Polischuk/lab23/lab23.runs/synth_1/htr.txt
+/z/3_course/3431102_80102/Bondarev_Polischuk/lab24/lab24.runs/impl_1/htr.txt
+/z/3_course/3431102_80102/Bondarev_Polischuk/lab24/lab24.runs/synth_1/htr.txt
+/z/3_course/3431102_80102/Bondarev_Polischuk/lab25/lab25.runs/impl_1/htr.txt
+/z/3_course/3431102_80102/Bondarev_Polischuk/lab25/lab25.runs/synth_1/htr.txt
+/z/3_course/3431102_80102/Bondarev_Polischuk/с флешки/lab21/project_2.ip_user_files/README.txt
+/z/3_course/3431102_80102/Bondarev_Polischuk/с флешки/xdc_4_i_5.txt
+/z/3_course/3431102_80102/laba_1/laba_1.runs/impl_1/htr.txt
+/z/3_course/3431102_80102/laba_1/laba_1.runs/synth_1/htr.txt
+/z/3_course/3431102_80102/Loktionov_Kuznetsova/lab_2/lab_2.ip_user_files/README.txt
+/z/3_course/3431102_80102/Loktionov_Kuznetsova/lab_2/lab_2.runs/impl_1/htr.txt
+/z/3_course/3431102_80102/Loktionov_Kuznetsova/lab_2/lab_2.runs/synth_1/htr.txt
+/z/3_course/3431102_80102/Loktionov_Kuznetsova/Lab_21/Lab_21.runs/impl_1/htr.txt
+/z/3_course/3431102_80102/Loktionov_Kuznetsova/Lab_21/Lab_21.runs/synth_1/htr.txt
+/z/3_course/3431102_80102/Loktionov_Kuznetsova/lab_22/lab_22.runs/impl_1/htr.txt
+/z/3_course/3431102_80102/Loktionov_Kuznetsova/lab_22/lab_22.runs/synth_1/htr.txt
+/z/3_course/3431102_80102/Loktionov_Kuznetsova/Lab_23/Lab_23.runs/impl_1/htr.txt
+/z/3_course/3431102_80102/Loktionov_Kuznetsova/Lab_23/Lab_23.runs/synth_1/htr.txt
+/z/3_course/3431102_80102/Loktionov_Kuznetsova/Lab_24/Lab_24.runs/impl_1/htr.txt
+/z/3_course/3431102_80102/Loktionov_Kuznetsova/Lab_24/Lab_24.runs/synth_1/htr.txt
+/z/3_course/3431102_80102/Loktionov_Kuznetsova/Lab_25/Lab_25.runs/impl_1/htr.txt
+/z/3_course/3431102_80102/Loktionov_Kuznetsova/Lab_25/Lab_25.runs/synth_1/htr.txt
+/z/3_course/3431102_80102/NaumovaKurkova/laba31/laba31.runs/impl_1/htr.txt
+/z/3_course/3431102_80102/NaumovaKurkova/laba31/laba31.runs/synth_1/htr.txt
+/z/3_course/3431102_80102/NaumovaKurkova/laba32/laba32.ip_user_files/README.txt
+/z/3_course/3431102_80102/NaumovaKurkova/laba32/laba32.runs/impl_1/htr.txt
+/z/3_course/3431102_80102/NaumovaKurkova/laba32/laba32.runs/synth_1/htr.txt
+/z/3_course/3431102_80102/NaumovaKurkova/laba32/laba32.sim/sim_1/behav/xsim.dir/test_bench_behav/Compile_Options.txt
+/z/3_course/3431102_80102/NaumovaKurkova/laba32/laba32.sim/sim_1/behav/xsim.dir/test_bench_behav/TempBreakPointFile.txt
+/z/3_course/3431102_80102/NaumovaKurkova/laba33/laba33.runs/impl_1/htr.txt
+/z/3_course/3431102_80102/NaumovaKurkova/laba33/laba33.runs/synth_1/htr.txt
+/z/3_course/3431102_80102/NaumovaKurkova/laba34/laba34.runs/impl_1/htr.txt
+/z/3_course/3431102_80102/NaumovaKurkova/laba34/laba34.runs/synth_1/htr.txt
+/z/3_course/3431102_80102/NaumovaKurkova/project_1/project_1.runs/impl_1/htr.txt
+/z/3_course/3431102_80102/NaumovaKurkova/project_1/project_1.runs/synth_1/htr.txt
+/z/3_course/3431102_80102/Voloshin_Olev/lab_2/project_1/project_1.runs/impl_1/htr.txt
+/z/3_course/3431102_80102/Voloshin_Olev/lab_2/project_1/project_1.runs/synth_1/htr.txt
+/z/3_course/3431102_80102/Voloshin_Olev/lab_2/project_2/project_2.runs/impl_1/htr.txt
+/z/3_course/3431102_80102/Voloshin_Olev/lab_2/project_2/project_2.runs/synth_1/htr.txt
+/z/3_course/3431102_80102/Voloshin_Olev/lab_2/project_3/project_3.runs/impl_1/htr.txt
+/z/3_course/3431102_80102/Voloshin_Olev/lab_2/project_3/project_3.runs/synth_1/htr.txt
+/z/3_course/3431102_80102/Voloshin_Olev/lab_3/project_1/project_1.runs/impl_1/htr.txt
+/z/3_course/3431102_80102/Voloshin_Olev/lab_3/project_1/project_1.runs/synth_1/htr.txt
+/z/3_course/3431102_80102/Voloshin_Olev/lab_3/project_2/project_2.runs/impl_1/htr.txt
+/z/3_course/3431102_80102/Voloshin_Olev/lab_3/project_2/project_2.runs/synth_1/htr.txt
+/z/3_course/3431102_80601/Lab_01/Lab_01.runs/impl_1/htr.txt
+/z/3_course/3431102_80601/Lab_01/Lab_01.runs/synth_1/htr.txt
+/z/3_course/3431102_80601/lab_03/lab_03/lab_03.runs/impl_1/htr.txt
+/z/3_course/3431102_80601/lab_03/lab_03/lab_03.runs/synth_1/htr.txt
+/z/3_course/3431102_80601/lab_03/part1.txt
+/z/3_course/3431102_80601/lab_03/part2.txt
+/z/3_course/3431102_80602/project_1/project_1.runs/impl_1/htr.txt
+/z/3_course/3431102_80602/project_1/project_1.runs/synth_1/htr.txt
+/z/3_course/3431102_80602/project_1_1/project_1.runs/impl_1/htr.txt
+/z/3_course/3431102_80602/project_1_1/project_1.runs/synth_1/htr.txt
+/z/3_course/3431102_80602/project_2/project_2.runs/impl_1/htr.txt
+/z/3_course/3431102_80602/project_2/project_2.runs/impl_2/htr.txt
+/z/3_course/3431102_80602/project_2/project_2.runs/impl_3/htr.txt
+/z/3_course/3431102_80602/project_2/project_2.runs/impl_4/htr.txt
+/z/3_course/3431102_80602/project_2/project_2.runs/synth_1/htr.txt
+/z/3_course/3431102_80602/project_2/project_2.runs/synth_2/htr.txt
+/z/3_course/3431102_80602/project_2/project_2.runs/synth_3/htr.txt
+/z/3_course/3431102_80602/project_2/project_2.runs/synth_4/htr.txt
+/z/3_course/3431102_80602/project_3/project_3.runs/impl_1/htr.txt
+/z/3_course/3431102_80602/project_3/project_3.runs/synth_1/htr.txt
+/z/3_course/3431102_80602/project_4/project_4.runs/impl_1/htr.txt
+/z/3_course/3431102_80602/project_4/project_4.runs/synth_1/htr.txt
+/z/3_course/3431102_80602/project_5/project_5.runs/synth_1/htr.txt
+/z/3_course/3431102_80602/project_6/project_6.runs/impl_1/htr.txt
+/z/3_course/3431102_80602/project_6/project_6.runs/synth_1/htr.txt
+/z/3_course/3431102_80602/project_7/project_7.runs/impl_1/htr.txt
+/z/3_course/3431102_80602/project_7/project_7.runs/synth_1/htr.txt
+/z/3_course/3431102_80602/Solomein_Kirova/project_1/project_1.runs/impl_1/htr.txt
+/z/3_course/3431102_80602/Solomein_Kirova/project_1/project_1.runs/synth_1/htr.txt
+/z/3_course/3431102_80602/Solomein_Kirova/project_2_2/project_2_2.runs/impl_1/htr.txt
+/z/3_course/3431102_80602/Solomein_Kirova/project_2_2/project_2_2.runs/synth_1/htr.txt
+/z/3_course/3431102_80602/Solomein_Kirova/project_2_3/project_2_3.runs/impl_1/htr.txt
+/z/3_course/3431102_80602/Solomein_Kirova/project_2_3/project_2_3.runs/synth_1/htr.txt
+/z/3_course/3431102_80602/Solomein_Kirova/project_2_4/project_2_4.runs/impl_1/htr.txt
+/z/3_course/3431102_80602/Solomein_Kirova/project_2_4/project_2_4.runs/synth_1/htr.txt
+/z/3_course/3431102_80602/Strekalov_sagesse/lab2_1/lab2_1.runs/impl_1/htr.txt
+/z/3_course/3431102_80602/Strekalov_sagesse/lab2_1/lab2_1.runs/synth_1/htr.txt
+/z/3_course/3431102_80602/Strekalov_sagesse/lab2_1/laba2_1/laba2_1.runs/impl_1/htr.txt
+/z/3_course/3431102_80602/Strekalov_sagesse/lab2_1/laba2_1/laba2_1.runs/synth_1/htr.txt
+/z/3_course/3431102_80602/Strekalov_sagesse/lab2_2/lab2_2.runs/impl_1/htr.txt
+/z/3_course/3431102_80602/Strekalov_sagesse/lab2_2/lab2_2.runs/synth_1/htr.txt
+/z/3_course/3431102_80602/Strekalov_sagesse/laba2_1/laba2_1.runs/impl_1/htr.txt
+/z/3_course/3431102_80602/Strekalov_sagesse/laba2_1/laba2_1.runs/synth_1/htr.txt
+/z/3_course/3431102_80602/Strekalov_sagesse/laba2_2/laba2_2.runs/impl_1/htr.txt
+/z/3_course/3431102_80602/Strekalov_sagesse/laba2_2/laba2_2.runs/synth_1/htr.txt
+/z/3_course/3431102_80602/Strekalov_sagesse/laba2_3/laba2_3.runs/impl_1/htr.txt
+/z/3_course/3431102_80602/Strekalov_sagesse/laba2_3/laba2_3.runs/synth_1/htr.txt
+/z/3_course/3431102_80602/Zyablikov_Sigal_1lab/demulti/demulti.runs/impl_1/htr.txt
+/z/3_course/3431102_80602/Zyablikov_Sigal_1lab/demulti/demulti.runs/synth_1/htr.txt
+/z/3_course/3431102_80602/Zyablikov_Sigal_1lab/kommuna/kommuna.runs/impl_1/htr.txt
+/z/3_course/3431102_80602/Zyablikov_Sigal_1lab/kommuna/kommuna.runs/synth_1/htr.txt
+/z/3_course/3431102_80602/Zyablikov_Sigal_1lab/lab3/lab2/lab2.ip_user_files/README.txt
+/z/3_course/3431102_80602/Zyablikov_Sigal_1lab/lab3/lab2/lab2.runs/impl_1/htr.txt
+/z/3_course/3431102_80602/Zyablikov_Sigal_1lab/lab3/lab2/lab2.runs/synth_1/htr.txt
+/z/3_course/3431102_80602/Zyablikov_Sigal_1lab/lab3/lab2/lab2.sim/sim_1/behav/xsim.dir/laba2_behav/Compile_Options.txt
+/z/3_course/3431102_80602/Zyablikov_Sigal_1lab/lab3/lab2/lab2.sim/sim_1/behav/xsim.dir/laba2_behav/TempBreakPointFile.txt
+/z/3_course/3431102_80602/Zyablikov_Sigal_1lab/lab3/lab2_2/lab2_2.runs/impl_1/htr.txt
+/z/3_course/3431102_80602/Zyablikov_Sigal_1lab/lab3/lab2_2/lab2_2.runs/synth_1/htr.txt
+/z/3_course/3431102_80602/Zyablikov_Sigal_1lab/lab3/lab2_3/lab2_3.runs/impl_1/htr.txt
+/z/3_course/3431102_80602/Zyablikov_Sigal_1lab/lab3/lab2_3/lab2_3.runs/synth_1/htr.txt
+/z/3_course/3431102_80602/Zyablikov_Sigal_1lab/lab3/lab2_4/lab2_4.runs/impl_1/htr.txt
+/z/3_course/3431102_80602/Zyablikov_Sigal_1lab/lab3/lab2_4/lab2_4.runs/synth_1/htr.txt
+/z/3_course/3431102_80602/Zyablikov_Sigal_1lab/lab3/Lab3_1/Lab3_1.runs/impl_1/htr.txt
+/z/3_course/3431102_80602/Zyablikov_Sigal_1lab/lab3/Lab3_1/Lab3_1.runs/synth_1/htr.txt
+/z/3_course/3431102_80602/Zyablikov_Sigal_1lab/lab3/Laba3_2/Laba3_2.runs/impl_1/htr.txt
+/z/3_course/3431102_80602/Zyablikov_Sigal_1lab/lab3/Laba3_2/Laba3_2.runs/synth_1/htr.txt
+/z/3_course/3431102_80602/Zyablikov_Sigal_1lab/lab3/project_2/project_2.runs/impl_1/htr.txt
+/z/3_course/3431102_80602/Zyablikov_Sigal_1lab/lab3/project_2/project_2.runs/synth_1/htr.txt
+/z/3_course/3431102_80602/Zyablikov_Sigal_1lab/multiflex/multiflex.runs/impl_1/htr.txt
+/z/3_course/3431102_80602/Zyablikov_Sigal_1lab/multiflex/multiflex.runs/synth_1/htr.txt
+/z/3_course/3431102_80602/Zyablikov_Sigal_1lab/project_22/project_22.runs/impl_1/htr.txt
+/z/3_course/3431102_80602/Zyablikov_Sigal_1lab/project_22/project_22.runs/synth_1/htr.txt
+/z/3_course/3431102_80602/Zyablikov_Sigal_1lab/project_23/project_23.runs/impl_1/htr.txt
+/z/3_course/3431102_80602/Zyablikov_Sigal_1lab/project_23/project_23.runs/synth_1/htr.txt
+/z/3_course/3431102_80602/Zyablikov_Sigal_1lab/project_3/project_3.runs/impl_1/htr.txt
+/z/3_course/3431102_80602/Zyablikov_Sigal_1lab/project_3/project_3.runs/synth_1/htr.txt
+/z/3_course/3431102_80602/Zyablikov_Sigal_1lab/project_32/project_32.runs/impl_1/htr.txt
+/z/3_course/3431102_80602/Zyablikov_Sigal_1lab/project_32/project_32.runs/synth_1/htr.txt
+/z/3_course/3431102_80602/Zyablikov_Sigal_1lab/project_33/project_33.runs/impl_1/htr.txt
+/z/3_course/3431102_80602/Zyablikov_Sigal_1lab/project_33/project_33.runs/synth_1/htr.txt
+/z/3_course/3431102_80602/Zyablikov_Sigal_1lab/Zyablikov_Sigal_1lab.runs/impl_1/htr.txt
+/z/3_course/3431102_80602/Zyablikov_Sigal_1lab/Zyablikov_Sigal_1lab.runs/synth_1/htr.txt
+/z/Методические материалы/11-Анкетирование.txt
+/z/Методические материалы/3d/dothuphuong/dothuphuong/N.txt
+/z/Методические материалы/3d/dothuphuong/dothuphuong/ReadMe.txt
+/z/Методические материалы/3d/dothuphuong/dothuphuong/train.txt
+/z/Методические материалы/3d/dothuphuong/N.txt
+/z/Методические материалы/3d/dothuphuong/TextFile1.txt
+/z/Методические материалы/3d/dothuphuong/train.txt
+/z/Методические материалы/3d/N.txt
+/z/Методические материалы/3d/train.txt
+/z/Методические материалы/UMTS/Структуры UMTS/UMTS_structures/BCCH_on_BCH.txt
+/z/Методические материалы/UMTS/Структуры UMTS/UMTS_structures/BCCH_on_FACH.txt
+/z/Методические материалы/UMTS/Структуры UMTS/UMTS_structures/DL_CCCH.txt
+/z/Методические материалы/UMTS/Структуры UMTS/UMTS_structures/MIB.txt
+/z/Методические материалы/UMTS/Структуры UMTS/UMTS_structures/PCCH.txt
+/z/Методические материалы/UMTS/Структуры UMTS/UMTS_structures/SB1.txt
+/z/Методические материалы/UMTS/Структуры UMTS/UMTS_structures/SB2.txt
+/z/Методические материалы/UMTS/Структуры UMTS/UMTS_structures/SIB1.txt
+/z/Методические материалы/UMTS/Структуры UMTS/UMTS_structures/SIB10.txt
+/z/Методические материалы/UMTS/Структуры UMTS/UMTS_structures/SIB11.txt
+/z/Методические материалы/UMTS/Структуры UMTS/UMTS_structures/SIB13.txt
+/z/Методические материалы/UMTS/Структуры UMTS/UMTS_structures/SIB2.txt
+/z/Методические материалы/UMTS/Структуры UMTS/UMTS_structures/SIB3.txt
+/z/Методические материалы/UMTS/Структуры UMTS/UMTS_structures/SIB4.txt
+/z/Методические материалы/UMTS/Структуры UMTS/UMTS_structures/SIB5.txt
+/z/Методические материалы/UMTS/Структуры UMTS/UMTS_structures/SIB5bis.txt
+/z/Методические материалы/UMTS/Структуры UMTS/UMTS_structures/SIB6.txt
+/z/Методические материалы/UMTS/Структуры UMTS/UMTS_structures/SIB7.txt
+/z/Методические материалы/UMTS/Структуры UMTS/UMTS_structures/SIB8.txt
+/z/Методические материалы/UMTS/Структуры UMTS/UMTS_structures/SIB9.txt
+/z/Методические материалы/UMTS/Структуры UMTS/UMTS_structures/UL_CCCH.txt
+/z/Методические материалы/Дискретная математика_Методические материалы/AutomataTheory.txt
+/z/Методические материалы/Дискретная математика_Методические материалы/DM11s/AutomataTheory.txt
+/z/Методические материалы/Дискретная математика_Методические материалы/DM11s/CodErrCorr/Cycl/G10_13_cycl_F3.txt
+/z/Методические материалы/Дискретная математика_Методические материалы/DM11s/CodErrCorr/Cycl/Gc10_13_sys_F3.txt
+/z/Методические материалы/Дискретная математика_Методические материалы/DM11s/CodErrCorr/Cycl/H3_13_cycl_F3.txt
+/z/Методические материалы/Дискретная математика_Методические материалы/DM11s/CodErrCorr/Cycl/Hc3_13_sys_F3.txt
+/z/Методические материалы/Дискретная математика_Методические материалы/DM11s/CodErrCorr/G10_13_cycl_F3.txt
+/z/Методические материалы/Дискретная математика_Методические материалы/DM11s/CodErrCorr/G10_13_F3.txt
+/z/Методические материалы/Дискретная математика_Методические материалы/DM11s/CodErrCorr/G10_13_sys_F3.txt
+/z/Методические материалы/Дискретная математика_Методические материалы/DM11s/CodErrCorr/G2_4_F3.txt
+/z/Методические материалы/Дискретная математика_Методические материалы/DM11s/CodErrCorr/G2_4_sys_F3.txt
+/z/Методические материалы/Дискретная математика_Методические материалы/DM11s/CodErrCorr/G4_6_F5.txt
+/z/Методические материалы/Дискретная математика_Методические материалы/DM11s/CodErrCorr/G4_6_sys_F5.txt
+/z/Методические материалы/Дискретная математика_Методические материалы/DM11s/CodErrCorr/G4_7_F2.txt
+/z/Методические материалы/Дискретная математика_Методические материалы/DM11s/CodErrCorr/G4_7_sys_F2.txt
+/z/Методические материалы/Дискретная математика_Методические материалы/DM11s/CodErrCorr/Gc10_13_sys_F3.txt
+/z/Методические материалы/Дискретная математика_Методические материалы/DM11s/CodErrCorr/H2_4_F3.txt
+/z/Методические материалы/Дискретная математика_Методические материалы/DM11s/CodErrCorr/H2_4_sys_F3.txt
+/z/Методические материалы/Дискретная математика_Методические материалы/DM11s/CodErrCorr/H2_6_F5.txt
+/z/Методические материалы/Дискретная математика_Методические материалы/DM11s/CodErrCorr/H2_6_sys_F5.txt
+/z/Методические материалы/Дискретная математика_Методические материалы/DM11s/CodErrCorr/H3_13_cycl_F3.txt
+/z/Методические материалы/Дискретная математика_Методические материалы/DM11s/CodErrCorr/H3_13_F3.txt
+/z/Методические материалы/Дискретная математика_Методические материалы/DM11s/CodErrCorr/H3_13_sys_F3.txt
+/z/Методические материалы/Дискретная математика_Методические материалы/DM11s/CodErrCorr/H3_7_F2.txt
+/z/Методические материалы/Дискретная математика_Методические материалы/DM11s/CodErrCorr/H3_7_sys_F2.txt
+/z/Методические материалы/Дискретная математика_Методические материалы/DM11s/CodErrCorr/Hc3_13_sys_F3.txt
+/z/Методические материалы/Дискретная математика_Методические материалы/DM11s/Combinat/NumOrdPartSet1_N_Matr.txt
+/z/Методические материалы/Дискретная математика_Методические материалы/DM11s/Combinat/p_n_Matrix.txt
+/z/Методические материалы/Дискретная математика_Методические материалы/DM11s/Graph/KruskalFast.txt
+/z/Методические материалы/Дискретная математика_Методические материалы/DM11s/Graph/PrimCorrect.txt
+/z/Методические материалы/Дискретная математика_Методические материалы/DM11s/LexOrder/VCLEXORD.TXT
+/z/Методические материалы/Дискретная математика_Методические материалы/DM11s/LexOrder/voc.txt
+/z/Методические материалы/Дискретная математика_Методические материалы/DM11s/LexOrder/VOC1.TXT
+/z/Методические материалы/Дискретная математика_Методические материалы/DM11s/LexOrder/vocabul.txt
+/z/Методические материалы/Дискретная математика_Методические материалы/DM11s/LexOrderCpp/LexOrdVoc/ReadMe.txt
+/z/Методические материалы/Дискретная математика_Методические материалы/DM11s/LexOrderCpp/LexOrdVoc/VocOrdered.txt
+/z/Методические материалы/Дискретная математика_Методические материалы/DM11s/LexOrderCpp/LexOrdVoc/VocUnOrd.txt
+/z/Методические материалы/Дискретная математика_Методические материалы/DM11s/SqRtCyclGr/Read_me!!!.txt
+/z/Методические материалы/Дискретная математика_Методические материалы/SqRtCyclGr/Read_me!!!.txt
+/z/Методические материалы/Доп-главы MatLab/sine.txt
+/z/Методические материалы/Доп-главы MatLab/Студенты/baikov/lab2/name.txt
+/z/Методические материалы/Доп-главы MatLab/Студенты/baikov/lab2/sine.txt
+/z/Методические материалы/Доп-главы MatLab/Студенты/baikov/lab5/chast2.txt
+/z/Методические материалы/Доп-главы MatLab/Студенты/baikov/lab6/chast2.txt
+/z/Методические материалы/Доп-главы MatLab/Студенты/Berg/T1.txt
+/z/Методические материалы/Доп-главы MatLab/Студенты/Berg/vector_save.txt
+/z/Методические материалы/Доп-главы MatLab/Студенты/dyakov/Новый текстовый документ.txt
+/z/Методические материалы/Доп-главы MatLab/Студенты/Gerasimov/lab5.txt
+/z/Методические материалы/Доп-главы MatLab/Студенты/Gerasimov/name.txt
+/z/Методические материалы/Доп-главы MatLab/Студенты/Gerasimov/sine.txt
+/z/Методические материалы/Доп-главы MatLab/Студенты/Gornostaev/name.txt
+/z/Методические материалы/Доп-главы MatLab/Студенты/Konstantinova/name.txt
+/z/Методические материалы/Доп-главы MatLab/Студенты/Konstantinova/sine.txt
+/z/Методические материалы/Доп-главы MatLab/Студенты/Kozyukov/lab2.txt
+/z/Методические материалы/Доп-главы MatLab/Студенты/Kozyukov/name.txt
+/z/Методические материалы/Доп-главы MatLab/Студенты/Kozyukov/sine.txt
+/z/Методические материалы/Доп-главы MatLab/Студенты/Kozyukov/vector.txt
+/z/Методические материалы/Доп-главы MatLab/Студенты/New Folder/name.txt
+/z/Методические материалы/Доп-главы MatLab/Студенты/Pavlovskii/lab5/dffd.txt
+/z/Методические материалы/Инженерная графика/Программы/DesignDbx/DrawPcad/Install.txt
+/z/Методические материалы/Инженерная графика/Программы/DesignDbx/DrawPcad/License.txt
+/z/Методические материалы/Инженерная графика/Программы/DesignDbx/DrawPcad/Readme.txt
+/z/Методические материалы/Инженерная графика/Программы/DesignDbx/Utilities/Перевод_DOS-Win/ReadMe.txt
+/z/Методические материалы/Инженерная графика/Программы/DesignDbx/Utilities/Поиск по имени/ReadMe.txt
+/z/Методические материалы/Инженерная графика/Программы/DesignDbx/Utilities/Поиск по размеру/Readme.txt
+/z/Методические материалы/Инженерная графика/Программы/DesignDbx/Utilities/Примеры правил Do-файла/Выбрать другое Via.txt
+/z/Методические материалы/Инженерная графика/Программы/DesignDbx/Utilities/Примеры правил Do-файла/Исключительное направление.txt
+/z/Методические материалы/Инженерная графика/Программы/DesignDbx/Utilities/Примеры правил Do-файла/Межслойные зазоры для разных классов.txt
+/z/Методические материалы/Инженерная графика/Программы/DesignDbx/Utilities/Примеры правил Do-файла/Общие правила зазоров.txt
+/z/Методические материалы/Инженерная графика/Программы/DesignDbx/Utilities/Примеры правил Do-файла/Ограничение параллельности на одном слое.txt
+/z/Методические материалы/Инженерная графика/Программы/DesignDbx/Utilities/Примеры правил Do-файла/Ограничение параллельности на смежных слоях.txt
+/z/Методические материалы/Инженерная графика/Программы/DesignDbx/Utilities/Примеры правил Do-файла/Параллельные цепи.txt
+/z/Методические материалы/Инженерная графика/Программы/DesignDbx/Utilities/Примеры правил Do-файла/Перемычки односторонних плат.txt
+/z/Методические материалы/Инженерная графика/Программы/DesignDbx/Utilities/Примеры правил Do-файла/Цепи для одного слоя.txt
+/z/Методические материалы/Инженерная графика/Программы/DesignDbx/Utilities/Примеры правил Do-файла/Цепь звездой а сегменты одинаковой длины.txt
+/z/Методические материалы/Инженерная графика/Программы/DesignDbx/Utilities/Примеры правил Do-файла/Экран на одном слое.txt
+/z/Методические материалы/Инженерная графика/Программы/DesignDbx/Utilities/Примеры правил Do-файла/Экран на смежных слоях.txt
+/z/Методические материалы/Криптография/Справочные материалы/C++/source/Chapter 16/tobuy.txt
+/z/Методические материалы/НТРГ/TN2.1/TN2.1/ReadMe.txt
+/z/Методические материалы/Практика ЕСКД/P-CAD 2006/Demo/Circuit Simulation/PSpice Examples/Capacitor/Out/Status Report.Txt
+/z/Методические материалы/Практика ЕСКД/P-CAD 2006/Demo/Circuit Simulation/PSpice Examples/Diode/Out/Status Report.Txt
+/z/Методические материалы/Практика ЕСКД/P-CAD 2006/Demo/Circuit Simulation/PSpice Examples/Global Parameters/Out/Status Report.Txt
+/z/Методические материалы/Практика ЕСКД/P-CAD 2006/Demo/Circuit Simulation/PSpice Examples/Inductor/Out/Status Report.Txt
+/z/Методические материалы/Практика ЕСКД/P-CAD 2006/Demo/Circuit Simulation/PSpice Examples/Jfet/Out/Status Report.Txt
+/z/Методические материалы/Практика ЕСКД/P-CAD 2006/Demo/Circuit Simulation/PSpice Examples/PSpice switch/Out/Status Report.Txt
+/z/Методические материалы/Практика ЕСКД/P-CAD 2006/Demo/Circuit Simulation/PSpice Examples/Resistor/Out/Status Report.Txt
+/z/Методические материалы/Практика ЕСКД/P-CAD 2006/Demo/Circuit Simulation/PSpice Examples/VCVS - Poly/Out/Status Report.Txt
+/z/Методические материалы/Практика ЕСКД/P-CAD 2006/Demo/Circuit Simulation/PSpice Examples/VCVS - Table/Out/Status Report.Txt
+/z/Методические материалы/Практика ЕСКД/P-CAD 2006/Demo/Circuit Simulation/PSpice Examples/VCVS - Value/Out/Status Report.Txt
+/z/Методические материалы/Практика ЕСКД/P-CAD 2006/Demo/Modfax0_ext.txt
+/z/Методические материалы/Практика ЕСКД/P-CAD 2006/Demo/Modfax0_map.txt
+/z/Методические материалы/Практика ЕСКД/P-CAD 2006/Lib/Sim/F160.txt
+/z/Методические материалы/Практика ЕСКД/P-CAD 2006/Lib/Sim/F162.txt
+/z/Методические материалы/Практика ЕСКД/P-CAD 2006/Lib/Sim/F241.txt
+/z/Методические материалы/Практика ЕСКД/P-CAD 2006/Lib/Sim/F273.txt
+/z/Методические материалы/Практика ЕСКД/P-CAD 2006/Lib/Sim/F377.txt
+/z/Методические материалы/Практика ЕСКД/P-CAD 2006/Lib/Sim/Ir/IRFU9110.txt
+/z/Методические материалы/Практика ЕСКД/P-CAD 2006/Lib/Sim/Ir/IRFU9120.txt
+/z/Методические материалы/Практика ЕСКД/P-CAD 2006/Lib/Sim/Ir/IRFU9220.txt
+/z/Методические материалы/Практика ЕСКД/P-CAD 2006/Lib/Sim/Ls273.txt
+/z/Методические материалы/Практика ЕСКД/P-CAD 2006/Lib/Sim/Ls377.txt
+/z/Методические материалы/Практика ЕСКД/P-CAD 2006/Lib/Sim/ST Microelectronics/Hcc4006.txt
+/z/Методические материалы/Практика ЕСКД/P-CAD 2006/Lib/Sim/ST Microelectronics/Hcc4022.txt
+/z/Методические материалы/Практика ЕСКД/P-CAD 2006/Lib/Sim/ST Microelectronics/Hcc4040.txt
+/z/Методические материалы/Практика ЕСКД/P-CAD 2006/Lib/Sim/ST Microelectronics/Hcc4068.txt
+/z/Методические материалы/Практика ЕСКД/P-CAD 2006/Lib/Sim/ST Microelectronics/Hcc4078.txt
+/z/Методические материалы/Практика ЕСКД/P-CAD 2006/Lib/Sim/ST Microelectronics/Hcf4006.txt
+/z/Методические материалы/Практика ЕСКД/P-CAD 2006/Lib/Sim/ST Microelectronics/Hcf4022.txt
+/z/Методические материалы/Практика ЕСКД/P-CAD 2006/Lib/Sim/ST Microelectronics/Hcf4040.txt
+/z/Методические материалы/Практика ЕСКД/P-CAD 2006/Lib/Sim/ST Microelectronics/Hcf4068.txt
+/z/Методические материалы/Практика ЕСКД/P-CAD 2006/Lib/Sim/ST Microelectronics/Hcf4078.txt
+/z/Методические материалы/Практика ЕСКД/P-CAD 2006/Lib/Sim/Texas Instruments/F242.txt
+/z/Методические материалы/Практика ЕСКД/P-CAD 2006/Lib/Sim/Texas Instruments/F243.txt
+/z/Методические материалы/Практика ЕСКД/P-CAD 2006/Lib/Sim/Texas Instruments/ls197.txt
+/z/Методические материалы/Практика ЕСКД/P-CAD 2006/Lib/Sim/Texas Instruments/Ls242.txt
+/z/Методические материалы/Практика ЕСКД/P-CAD 2006/Lib/Sim/Texas Instruments/Ls243.txt
+/z/Методические материалы/Практика ЕСКД/P-CAD 2006/Tutorial/Ale_crosslink.txt
+/z/Методические материалы/Практика ЕСКД/P-CAD 2006/Tutorial/Ale_map.txt
+/z/Методические материалы/Практика ЕСКД/P-CAD 2006/Tutorial/Ale_mrp.txt
+/z/Методические материалы/Практика ЕСКД/P-CAD 2006/Utils/Readme.txt
+/z/Методические материалы/Практика ЕСКД/P-CAD 2006/Форматки/OnlineDRC.ERR.txt
+/z/Методические материалы/СНС/MATLAB/Signals/2x_freqs/Info.txt
+/z/Методические материалы/СНС/MIT/Адес курса MIT по GPS.txt
+/z/Методические материалы/СНС/Screen.txt
+/z/Методические материалы/СНС/Параметры орбиты спутника.txt
+/z/Методические материалы/СНС/Формирование CA-кода.txt
+/z/Методические материалы/ЦОС/Spectrum_B34 Uc3 Uз2_5.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/Библиотеки/STM32F4xx_DSP_StdPeriph_Lib_V1.6.1/CMSIS/DSP_Lib/license.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/Библиотеки/STM32F4xx_DSP_StdPeriph_Lib_V1.6.1/CMSIS/Lib/license.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/Библиотеки/STM32F4xx_DSP_StdPeriph_Lib_V1.6.1/CMSIS/README.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/Библиотеки/STM32F4xx_DSP_StdPeriph_Lib_V1.6.1/Project/STM32F4xx_StdPeriph_Examples/ADC/ADC_DMA/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/Библиотеки/STM32F4xx_DSP_StdPeriph_Lib_V1.6.1/Project/STM32F4xx_StdPeriph_Examples/ADC/ADC_DualModeInterleaved/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/Библиотеки/STM32F4xx_DSP_StdPeriph_Lib_V1.6.1/Project/STM32F4xx_StdPeriph_Examples/ADC/ADC_DualModeRegulSimu/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/Библиотеки/STM32F4xx_DSP_StdPeriph_Lib_V1.6.1/Project/STM32F4xx_StdPeriph_Examples/ADC/ADC_TripleModeInterleaved/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/Библиотеки/STM32F4xx_DSP_StdPeriph_Lib_V1.6.1/Project/STM32F4xx_StdPeriph_Examples/ADC/ADC_VBATMeasurement/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/Библиотеки/STM32F4xx_DSP_StdPeriph_Lib_V1.6.1/Project/STM32F4xx_StdPeriph_Examples/CAN/CAN_LoopBack/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/Библиотеки/STM32F4xx_DSP_StdPeriph_Lib_V1.6.1/Project/STM32F4xx_StdPeriph_Examples/CAN/CAN_Networking/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/Библиотеки/STM32F4xx_DSP_StdPeriph_Lib_V1.6.1/Project/STM32F4xx_StdPeriph_Examples/CEC/CEC_DataExchange/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/Библиотеки/STM32F4xx_DSP_StdPeriph_Lib_V1.6.1/Project/STM32F4xx_StdPeriph_Examples/CortexM/BitBand/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/Библиотеки/STM32F4xx_DSP_StdPeriph_Lib_V1.6.1/Project/STM32F4xx_StdPeriph_Examples/CortexM/Mode_Privilege/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/Библиотеки/STM32F4xx_DSP_StdPeriph_Lib_V1.6.1/Project/STM32F4xx_StdPeriph_Examples/CortexM/MPU/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/Библиотеки/STM32F4xx_DSP_StdPeriph_Lib_V1.6.1/Project/STM32F4xx_StdPeriph_Examples/CRC/CRC_Example/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/Библиотеки/STM32F4xx_DSP_StdPeriph_Lib_V1.6.1/Project/STM32F4xx_StdPeriph_Examples/CRYP/CRYP_AESECBmode/Expected_Results.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/Библиотеки/STM32F4xx_DSP_StdPeriph_Lib_V1.6.1/Project/STM32F4xx_StdPeriph_Examples/CRYP/CRYP_AESECBmode/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/Библиотеки/STM32F4xx_DSP_StdPeriph_Lib_V1.6.1/Project/STM32F4xx_StdPeriph_Examples/CRYP/CRYP_AESmodes/Expected_Results.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/Библиотеки/STM32F4xx_DSP_StdPeriph_Lib_V1.6.1/Project/STM32F4xx_StdPeriph_Examples/CRYP/CRYP_AESmodes/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/Библиотеки/STM32F4xx_DSP_StdPeriph_Lib_V1.6.1/Project/STM32F4xx_StdPeriph_Examples/CRYP/CRYP_AES_CCM/Expected_Results.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/Библиотеки/STM32F4xx_DSP_StdPeriph_Lib_V1.6.1/Project/STM32F4xx_StdPeriph_Examples/CRYP/CRYP_AES_CCM/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/Библиотеки/STM32F4xx_DSP_StdPeriph_Lib_V1.6.1/Project/STM32F4xx_StdPeriph_Examples/CRYP/CRYP_AES_GCM/Expected_Results.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/Библиотеки/STM32F4xx_DSP_StdPeriph_Lib_V1.6.1/Project/STM32F4xx_StdPeriph_Examples/CRYP/CRYP_AES_GCM/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/Библиотеки/STM32F4xx_DSP_StdPeriph_Lib_V1.6.1/Project/STM32F4xx_StdPeriph_Examples/CRYP/CRYP_DESTDESmodes/Expected_Results.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/Библиотеки/STM32F4xx_DSP_StdPeriph_Lib_V1.6.1/Project/STM32F4xx_StdPeriph_Examples/CRYP/CRYP_DESTDESmodes/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/Библиотеки/STM32F4xx_DSP_StdPeriph_Lib_V1.6.1/Project/STM32F4xx_StdPeriph_Examples/CRYP/CRYP_TDESECBmode/Expected_Results.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/Библиотеки/STM32F4xx_DSP_StdPeriph_Lib_V1.6.1/Project/STM32F4xx_StdPeriph_Examples/CRYP/CRYP_TDESECBmode/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/Библиотеки/STM32F4xx_DSP_StdPeriph_Lib_V1.6.1/Project/STM32F4xx_StdPeriph_Examples/DAC/DAC_SignalsGeneration/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/Библиотеки/STM32F4xx_DSP_StdPeriph_Lib_V1.6.1/Project/STM32F4xx_StdPeriph_Examples/DCMI/DCMI_CameraExample/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/Библиотеки/STM32F4xx_DSP_StdPeriph_Lib_V1.6.1/Project/STM32F4xx_StdPeriph_Examples/DMA/Complete list of DMA examples.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/Библиотеки/STM32F4xx_DSP_StdPeriph_Lib_V1.6.1/Project/STM32F4xx_StdPeriph_Examples/DMA/DMA_FLASHToRAM/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/Библиотеки/STM32F4xx_DSP_StdPeriph_Lib_V1.6.1/Project/STM32F4xx_StdPeriph_Examples/DMA2D/DMA2D_MemToMemWithBlending/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/Библиотеки/STM32F4xx_DSP_StdPeriph_Lib_V1.6.1/Project/STM32F4xx_StdPeriph_Examples/DMA2D/DMA2D_MemToMemWithLCD/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/Библиотеки/STM32F4xx_DSP_StdPeriph_Lib_V1.6.1/Project/STM32F4xx_StdPeriph_Examples/DMA2D/DMA2D_MemToMemWithPFC/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/Библиотеки/STM32F4xx_DSP_StdPeriph_Lib_V1.6.1/Project/STM32F4xx_StdPeriph_Examples/DMA2D/DMA2D_RegToMemWithLCD/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/Библиотеки/STM32F4xx_DSP_StdPeriph_Lib_V1.6.1/Project/STM32F4xx_StdPeriph_Examples/DSI/DSI_ImageMode/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/Библиотеки/STM32F4xx_DSP_StdPeriph_Lib_V1.6.1/Project/STM32F4xx_StdPeriph_Examples/DSI/DSI_TearingEffect_GPIO/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/Библиотеки/STM32F4xx_DSP_StdPeriph_Lib_V1.6.1/Project/STM32F4xx_StdPeriph_Examples/DSI/DSI_UltraLowPowerMode/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/Библиотеки/STM32F4xx_DSP_StdPeriph_Lib_V1.6.1/Project/STM32F4xx_StdPeriph_Examples/DSI/DSI_VideoMode/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/Библиотеки/STM32F4xx_DSP_StdPeriph_Lib_V1.6.1/Project/STM32F4xx_StdPeriph_Examples/EXTI/EXTI_Example/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/Библиотеки/STM32F4xx_DSP_StdPeriph_Lib_V1.6.1/Project/STM32F4xx_StdPeriph_Examples/FLASH/FLASH_Program/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/Библиотеки/STM32F4xx_DSP_StdPeriph_Lib_V1.6.1/Project/STM32F4xx_StdPeriph_Examples/FLASH/FLASH_WriteProtection/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/Библиотеки/STM32F4xx_DSP_StdPeriph_Lib_V1.6.1/Project/STM32F4xx_StdPeriph_Examples/FMC/FMC_NOR/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/Библиотеки/STM32F4xx_DSP_StdPeriph_Lib_V1.6.1/Project/STM32F4xx_StdPeriph_Examples/FMC/FMC_SDRAM/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/Библиотеки/STM32F4xx_DSP_StdPeriph_Lib_V1.6.1/Project/STM32F4xx_StdPeriph_Examples/FMC/FMC_SDRAM_Basic/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/Библиотеки/STM32F4xx_DSP_StdPeriph_Lib_V1.6.1/Project/STM32F4xx_StdPeriph_Examples/FMC/FMC_SDRAM_DataMemory/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/Библиотеки/STM32F4xx_DSP_StdPeriph_Lib_V1.6.1/Project/STM32F4xx_StdPeriph_Examples/FMC/FMC_SDRAM_DMA/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/Библиотеки/STM32F4xx_DSP_StdPeriph_Lib_V1.6.1/Project/STM32F4xx_StdPeriph_Examples/FMC/FMC_SDRAM_LowPower/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/Библиотеки/STM32F4xx_DSP_StdPeriph_Lib_V1.6.1/Project/STM32F4xx_StdPeriph_Examples/FMC/FMC_SDRAM_SRAM_BankSwitch/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/Библиотеки/STM32F4xx_DSP_StdPeriph_Lib_V1.6.1/Project/STM32F4xx_StdPeriph_Examples/FMC/FMC_SRAM/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/Библиотеки/STM32F4xx_DSP_StdPeriph_Lib_V1.6.1/Project/STM32F4xx_StdPeriph_Examples/FMC/FMC_SRAM_DataMemory/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/Библиотеки/STM32F4xx_DSP_StdPeriph_Lib_V1.6.1/Project/STM32F4xx_StdPeriph_Examples/FSMC/FSMC_SRAM/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/Библиотеки/STM32F4xx_DSP_StdPeriph_Lib_V1.6.1/Project/STM32F4xx_StdPeriph_Examples/FSMC/FSMC_SRAM_DataMemory/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/Библиотеки/STM32F4xx_DSP_StdPeriph_Lib_V1.6.1/Project/STM32F4xx_StdPeriph_Examples/GPIO/GPIO_IOToggle/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/Библиотеки/STM32F4xx_DSP_StdPeriph_Lib_V1.6.1/Project/STM32F4xx_StdPeriph_Examples/HASH/HASH_ContextSwap/Expected_Results.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/Библиотеки/STM32F4xx_DSP_StdPeriph_Lib_V1.6.1/Project/STM32F4xx_StdPeriph_Examples/HASH/HASH_ContextSwap/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/Библиотеки/STM32F4xx_DSP_StdPeriph_Lib_V1.6.1/Project/STM32F4xx_StdPeriph_Examples/HASH/HASH_SHA1_MD5/Expected_Results.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/Библиотеки/STM32F4xx_DSP_StdPeriph_Lib_V1.6.1/Project/STM32F4xx_StdPeriph_Examples/HASH/HASH_SHA1_MD5/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/Библиотеки/STM32F4xx_DSP_StdPeriph_Lib_V1.6.1/Project/STM32F4xx_StdPeriph_Examples/HASH/HMAC_SHA1_MD5/Expected_Results.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/Библиотеки/STM32F4xx_DSP_StdPeriph_Lib_V1.6.1/Project/STM32F4xx_StdPeriph_Examples/HASH/HMAC_SHA1_MD5/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/Библиотеки/STM32F4xx_DSP_StdPeriph_Lib_V1.6.1/Project/STM32F4xx_StdPeriph_Examples/HASH/SHA1_MD5_DMA/Expected_Results.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/Библиотеки/STM32F4xx_DSP_StdPeriph_Lib_V1.6.1/Project/STM32F4xx_StdPeriph_Examples/HASH/SHA1_MD5_DMA/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/Библиотеки/STM32F4xx_DSP_StdPeriph_Lib_V1.6.1/Project/STM32F4xx_StdPeriph_Examples/HASH/SHA224_SHA256_DMA/Expected_Results.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/Библиотеки/STM32F4xx_DSP_StdPeriph_Lib_V1.6.1/Project/STM32F4xx_StdPeriph_Examples/HASH/SHA224_SHA256_DMA/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/Библиотеки/STM32F4xx_DSP_StdPeriph_Lib_V1.6.1/Project/STM32F4xx_StdPeriph_Examples/I2C/I2C_EEPROM/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/Библиотеки/STM32F4xx_DSP_StdPeriph_Lib_V1.6.1/Project/STM32F4xx_StdPeriph_Examples/I2C/I2C_IOExpander/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/Библиотеки/STM32F4xx_DSP_StdPeriph_Lib_V1.6.1/Project/STM32F4xx_StdPeriph_Examples/I2C/I2C_TwoBoards/I2C_DataExchangeDMA/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/Библиотеки/STM32F4xx_DSP_StdPeriph_Lib_V1.6.1/Project/STM32F4xx_StdPeriph_Examples/I2C/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/Библиотеки/STM32F4xx_DSP_StdPeriph_Lib_V1.6.1/Project/STM32F4xx_StdPeriph_Examples/I2S/I2S_Audio/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/Библиотеки/STM32F4xx_DSP_StdPeriph_Lib_V1.6.1/Project/STM32F4xx_StdPeriph_Examples/I2S/I2S_TwoBoards/I2S_DataExchangePolling/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/Библиотеки/STM32F4xx_DSP_StdPeriph_Lib_V1.6.1/Project/STM32F4xx_StdPeriph_Examples/IWDG/IWDG_Example/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/Библиотеки/STM32F4xx_DSP_StdPeriph_Lib_V1.6.1/Project/STM32F4xx_StdPeriph_Examples/Lib_DEBUG/Lib_DEBUG_Example/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/Библиотеки/STM32F4xx_DSP_StdPeriph_Lib_V1.6.1/Project/STM32F4xx_StdPeriph_Examples/LPTIM/LPTIM_PulseCounter/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/Библиотеки/STM32F4xx_DSP_StdPeriph_Lib_V1.6.1/Project/STM32F4xx_StdPeriph_Examples/LPTIM/LPTIM_PWMExternalClock/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/Библиотеки/STM32F4xx_DSP_StdPeriph_Lib_V1.6.1/Project/STM32F4xx_StdPeriph_Examples/LTDC/LTDC_AnimatedPictureFromSDCard/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/Библиотеки/STM32F4xx_DSP_StdPeriph_Lib_V1.6.1/Project/STM32F4xx_StdPeriph_Examples/LTDC/LTDC_AnimatedPictureFromSDCard/TOP/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/Библиотеки/STM32F4xx_DSP_StdPeriph_Lib_V1.6.1/Project/STM32F4xx_StdPeriph_Examples/LTDC/LTDC_ColorKeying/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/Библиотеки/STM32F4xx_DSP_StdPeriph_Lib_V1.6.1/Project/STM32F4xx_StdPeriph_Examples/LTDC/LTDC_Display_1Layer/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/Библиотеки/STM32F4xx_DSP_StdPeriph_Lib_V1.6.1/Project/STM32F4xx_StdPeriph_Examples/LTDC/LTDC_Display_2Layers/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/Библиотеки/STM32F4xx_DSP_StdPeriph_Lib_V1.6.1/Project/STM32F4xx_StdPeriph_Examples/LTDC/LTDC_PicturesFromSDCard/PICT/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/Библиотеки/STM32F4xx_DSP_StdPeriph_Lib_V1.6.1/Project/STM32F4xx_StdPeriph_Examples/LTDC/LTDC_PicturesFromSDCard/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/Библиотеки/STM32F4xx_DSP_StdPeriph_Lib_V1.6.1/Project/STM32F4xx_StdPeriph_Examples/NVIC/NVIC_IRQMask/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/Библиотеки/STM32F4xx_DSP_StdPeriph_Lib_V1.6.1/Project/STM32F4xx_StdPeriph_Examples/NVIC/NVIC_IRQPriority/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/Библиотеки/STM32F4xx_DSP_StdPeriph_Lib_V1.6.1/Project/STM32F4xx_StdPeriph_Examples/NVIC/NVIC_VectorTableRelocation/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/Библиотеки/STM32F4xx_DSP_StdPeriph_Lib_V1.6.1/Project/STM32F4xx_StdPeriph_Examples/NVIC/NVIC_WFIMode/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/Библиотеки/STM32F4xx_DSP_StdPeriph_Lib_V1.6.1/Project/STM32F4xx_StdPeriph_Examples/PWR/PWR_BOR/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/Библиотеки/STM32F4xx_DSP_StdPeriph_Lib_V1.6.1/Project/STM32F4xx_StdPeriph_Examples/PWR/PWR_CurrentConsumption/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/Библиотеки/STM32F4xx_DSP_StdPeriph_Lib_V1.6.1/Project/STM32F4xx_StdPeriph_Examples/PWR/PWR_PVD/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/Библиотеки/STM32F4xx_DSP_StdPeriph_Lib_V1.6.1/Project/STM32F4xx_StdPeriph_Examples/PWR/PWR_STANDBY/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/Библиотеки/STM32F4xx_DSP_StdPeriph_Lib_V1.6.1/Project/STM32F4xx_StdPeriph_Examples/PWR/PWR_STOP/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/Библиотеки/STM32F4xx_DSP_StdPeriph_Lib_V1.6.1/Project/STM32F4xx_StdPeriph_Examples/QSPI/QSPI_ExecuteInplace/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/Библиотеки/STM32F4xx_DSP_StdPeriph_Lib_V1.6.1/Project/STM32F4xx_StdPeriph_Examples/QSPI/QSPI_MemoryMapped/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/Библиотеки/STM32F4xx_DSP_StdPeriph_Lib_V1.6.1/Project/STM32F4xx_StdPeriph_Examples/QSPI/QSPI_ReadWrite_DMA/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/Библиотеки/STM32F4xx_DSP_StdPeriph_Lib_V1.6.1/Project/STM32F4xx_StdPeriph_Examples/QSPI/QSPI_ReadWrite_IT/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/Библиотеки/STM32F4xx_DSP_StdPeriph_Lib_V1.6.1/Project/STM32F4xx_StdPeriph_Examples/RCC/RCC_Example/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/Библиотеки/STM32F4xx_DSP_StdPeriph_Lib_V1.6.1/Project/STM32F4xx_StdPeriph_Examples/RNG/RNG_MultiRNG/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/Библиотеки/STM32F4xx_DSP_StdPeriph_Lib_V1.6.1/Project/STM32F4xx_StdPeriph_Examples/RTC/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/Библиотеки/STM32F4xx_DSP_StdPeriph_Lib_V1.6.1/Project/STM32F4xx_StdPeriph_Examples/RTC/RTC_BKPDomain/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/Библиотеки/STM32F4xx_DSP_StdPeriph_Lib_V1.6.1/Project/STM32F4xx_StdPeriph_Examples/RTC/RTC_Calendar/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/Библиотеки/STM32F4xx_DSP_StdPeriph_Lib_V1.6.1/Project/STM32F4xx_StdPeriph_Examples/RTC/RTC_LSI/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/Библиотеки/STM32F4xx_DSP_StdPeriph_Lib_V1.6.1/Project/STM32F4xx_StdPeriph_Examples/RTC/RTC_StopWatch/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/Библиотеки/STM32F4xx_DSP_StdPeriph_Lib_V1.6.1/Project/STM32F4xx_StdPeriph_Examples/RTC/RTC_Tamper/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/Библиотеки/STM32F4xx_DSP_StdPeriph_Lib_V1.6.1/Project/STM32F4xx_StdPeriph_Examples/RTC/RTC_Timer/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/Библиотеки/STM32F4xx_DSP_StdPeriph_Lib_V1.6.1/Project/STM32F4xx_StdPeriph_Examples/RTC/RTC_TimeStamp/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/Библиотеки/STM32F4xx_DSP_StdPeriph_Lib_V1.6.1/Project/STM32F4xx_StdPeriph_Examples/SAI/SAI_Audio/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/Библиотеки/STM32F4xx_DSP_StdPeriph_Lib_V1.6.1/Project/STM32F4xx_StdPeriph_Examples/SDIO/SDIO_uSDCard/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/Библиотеки/STM32F4xx_DSP_StdPeriph_Lib_V1.6.1/Project/STM32F4xx_StdPeriph_Examples/SPI/SPI_FLASH/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/Библиотеки/STM32F4xx_DSP_StdPeriph_Lib_V1.6.1/Project/STM32F4xx_StdPeriph_Examples/SPI/SPI_TwoBoards/SPI_DataExchangeDMA/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/Библиотеки/STM32F4xx_DSP_StdPeriph_Lib_V1.6.1/Project/STM32F4xx_StdPeriph_Examples/SPI/SPI_TwoBoards/SPI_DataExchangeInterrupt/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/Библиотеки/STM32F4xx_DSP_StdPeriph_Lib_V1.6.1/Project/STM32F4xx_StdPeriph_Examples/SysTick/SysTick_Example/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/Библиотеки/STM32F4xx_DSP_StdPeriph_Lib_V1.6.1/Project/STM32F4xx_StdPeriph_Examples/TIM/TIM_6Steps/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/Библиотеки/STM32F4xx_DSP_StdPeriph_Lib_V1.6.1/Project/STM32F4xx_StdPeriph_Examples/TIM/TIM_7PWMOutput/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/Библиотеки/STM32F4xx_DSP_StdPeriph_Lib_V1.6.1/Project/STM32F4xx_StdPeriph_Examples/TIM/TIM_CascadeSynchro/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/Библиотеки/STM32F4xx_DSP_StdPeriph_Lib_V1.6.1/Project/STM32F4xx_StdPeriph_Examples/TIM/TIM_ComplementarySignals/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/Библиотеки/STM32F4xx_DSP_StdPeriph_Lib_V1.6.1/Project/STM32F4xx_StdPeriph_Examples/TIM/TIM_DMA/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/Библиотеки/STM32F4xx_DSP_StdPeriph_Lib_V1.6.1/Project/STM32F4xx_StdPeriph_Examples/TIM/TIM_DMABurst/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/Библиотеки/STM32F4xx_DSP_StdPeriph_Lib_V1.6.1/Project/STM32F4xx_StdPeriph_Examples/TIM/TIM_ExtTriggerSynchro/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/Библиотеки/STM32F4xx_DSP_StdPeriph_Lib_V1.6.1/Project/STM32F4xx_StdPeriph_Examples/TIM/TIM_InputCapture/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/Библиотеки/STM32F4xx_DSP_StdPeriph_Lib_V1.6.1/Project/STM32F4xx_StdPeriph_Examples/TIM/TIM_OCActive/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/Библиотеки/STM32F4xx_DSP_StdPeriph_Lib_V1.6.1/Project/STM32F4xx_StdPeriph_Examples/TIM/TIM_OCInactive/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/Библиотеки/STM32F4xx_DSP_StdPeriph_Lib_V1.6.1/Project/STM32F4xx_StdPeriph_Examples/TIM/TIM_OCToggle/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/Библиотеки/STM32F4xx_DSP_StdPeriph_Lib_V1.6.1/Project/STM32F4xx_StdPeriph_Examples/TIM/TIM_OnePulse/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/Библиотеки/STM32F4xx_DSP_StdPeriph_Lib_V1.6.1/Project/STM32F4xx_StdPeriph_Examples/TIM/TIM_ParallelSynchro/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/Библиотеки/STM32F4xx_DSP_StdPeriph_Lib_V1.6.1/Project/STM32F4xx_StdPeriph_Examples/TIM/TIM_PWMInput/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/Библиотеки/STM32F4xx_DSP_StdPeriph_Lib_V1.6.1/Project/STM32F4xx_StdPeriph_Examples/TIM/TIM_PWMOutput/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/Библиотеки/STM32F4xx_DSP_StdPeriph_Lib_V1.6.1/Project/STM32F4xx_StdPeriph_Examples/TIM/TIM_Synchro/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/Библиотеки/STM32F4xx_DSP_StdPeriph_Lib_V1.6.1/Project/STM32F4xx_StdPeriph_Examples/TIM/TIM_TIM10PWMOutput/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/Библиотеки/STM32F4xx_DSP_StdPeriph_Lib_V1.6.1/Project/STM32F4xx_StdPeriph_Examples/TIM/TIM_TIM9OCToggle/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/Библиотеки/STM32F4xx_DSP_StdPeriph_Lib_V1.6.1/Project/STM32F4xx_StdPeriph_Examples/TIM/TIM_TimeBase/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/Библиотеки/STM32F4xx_DSP_StdPeriph_Lib_V1.6.1/Project/STM32F4xx_StdPeriph_Examples/USART/USART_HyperTerminal/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/Библиотеки/STM32F4xx_DSP_StdPeriph_Lib_V1.6.1/Project/STM32F4xx_StdPeriph_Examples/USART/USART_Printf/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/Библиотеки/STM32F4xx_DSP_StdPeriph_Lib_V1.6.1/Project/STM32F4xx_StdPeriph_Examples/USART/USART_SmartCard/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/Библиотеки/STM32F4xx_DSP_StdPeriph_Lib_V1.6.1/Project/STM32F4xx_StdPeriph_Examples/USART/USART_TwoBoards/USART_DataExchangeDMA/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/Библиотеки/STM32F4xx_DSP_StdPeriph_Lib_V1.6.1/Project/STM32F4xx_StdPeriph_Examples/USART/USART_TwoBoards/USART_DataExchangeInterrupt/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/Библиотеки/STM32F4xx_DSP_StdPeriph_Lib_V1.6.1/Project/STM32F4xx_StdPeriph_Examples/WWDG/WWDG_Example/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/Библиотеки/STM32F4xx_DSP_StdPeriph_Lib_V1.6.1/Project/STM32F4xx_StdPeriph_Templates/EWARM/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/Библиотеки/STM32F4xx_DSP_StdPeriph_Lib_V1.6.1/Project/STM32F4xx_StdPeriph_Templates/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/Библиотеки/STM32F4xx_DSP_StdPeriph_Lib_V1.6.1/Utilities/Media/Pictures/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/Библиотеки/STM32F4xx_DSP_StdPeriph_Lib_V1.6.1/Utilities/Third_Party/fat_fs/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/Литература/Лабораторные/Методическое пособие изменения.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Drivers/en.stsw-link009/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Drivers/Текстовый документ.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/MDK ARM 4.60 & HLP/Rus_font_dll/ReadMe.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/MDK ARM 4.60 & HLP/Rus_font_dll/toweroff.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Drivers/CMSIS/DSP_Lib/license.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Drivers/CMSIS/Lib/license.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Drivers/CMSIS/README.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Middlewares/Third_Party/FatFs/doc/updates.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Middlewares/Third_Party/FatFs/src/00readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Middlewares/Third_Party/FatFs/src/st_readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Middlewares/Third_Party/FreeRTOS/License/license.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Middlewares/Third_Party/FreeRTOS/Source/portable/Keil/See-also-the-RVDS-directory.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Middlewares/Third_Party/FreeRTOS/Source/portable/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Middlewares/Third_Party/FreeRTOS/Source/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Middlewares/Third_Party/FreeRTOS/Source/st_readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Middlewares/Third_Party/LibJPEG/coderules.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Middlewares/Third_Party/LibJPEG/filelist.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Middlewares/Third_Party/LibJPEG/install.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Middlewares/Third_Party/LibJPEG/jconfig.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Middlewares/Third_Party/LibJPEG/jdosaobj.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Middlewares/Third_Party/LibJPEG/libjpeg.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Middlewares/Third_Party/LibJPEG/structure.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Middlewares/Third_Party/LibJPEG/st_readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Middlewares/Third_Party/LibJPEG/usage.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Middlewares/Third_Party/LibJPEG/wizard.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Middlewares/Third_Party/LwIP/doc/contrib.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Middlewares/Third_Party/LwIP/doc/rawapi.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Middlewares/Third_Party/LwIP/doc/savannah.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Middlewares/Third_Party/LwIP/doc/snmp_agent.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Middlewares/Third_Party/LwIP/doc/sys_arch.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Middlewares/Third_Party/LwIP/st_readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Middlewares/Third_Party/PolarSSL/CMakeLists.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Middlewares/Third_Party/PolarSSL/include/CMakeLists.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Middlewares/Third_Party/PolarSSL/library/CMakeLists.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Middlewares/Third_Party/PolarSSL/programs/aes/CMakeLists.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Middlewares/Third_Party/PolarSSL/programs/CMakeLists.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Middlewares/Third_Party/PolarSSL/programs/hash/CMakeLists.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Middlewares/Third_Party/PolarSSL/programs/pkey/CMakeLists.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Middlewares/Third_Party/PolarSSL/programs/pkey/dh_prime.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Middlewares/Third_Party/PolarSSL/programs/pkey/rsa_priv.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Middlewares/Third_Party/PolarSSL/programs/pkey/rsa_pub.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Middlewares/Third_Party/PolarSSL/programs/random/CMakeLists.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Middlewares/Third_Party/PolarSSL/programs/ssl/CA-HOWTO.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Middlewares/Third_Party/PolarSSL/programs/ssl/CMakeLists.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Middlewares/Third_Party/PolarSSL/programs/ssl/test-ca/sslconf.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Middlewares/Third_Party/PolarSSL/programs/test/CMakeLists.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Middlewares/Third_Party/PolarSSL/programs/util/CMakeLists.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Middlewares/Third_Party/PolarSSL/programs/x509/CMakeLists.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Middlewares/Third_Party/PolarSSL/tests/CMakeLists.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Middlewares/Third_Party/PolarSSL/visualc/VS6/dh_prime.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Middlewares/Third_Party/PolarSSL/visualc/VS6/rsa_priv.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Middlewares/Third_Party/PolarSSL/visualc/VS6/rsa_pub.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM32446E_EVAL/Applications/Audio/Audio_playback_and_record/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM32446E_EVAL/Applications/Camera/Camera_To_USBDisk/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM32446E_EVAL/Applications/FatFs/FatFs_MultiDrivers/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM32446E_EVAL/Applications/FatFs/FatFs_RAMDisk/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM32446E_EVAL/Applications/FatFs/FatFs_RAMDisk_RTOS/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM32446E_EVAL/Applications/FatFs/FatFs_USBDisk/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM32446E_EVAL/Applications/FatFs/FatFs_USBDisk_MultipleAccess_RTOS/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM32446E_EVAL/Applications/FatFs/FatFs_USBDisk_RTOS/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM32446E_EVAL/Applications/FatFs/FatFs_uSD/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM32446E_EVAL/Applications/FatFs/FatFs_uSD_RTOS/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM32446E_EVAL/Applications/FreeRTOS/FreeRTOS_LowPower/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM32446E_EVAL/Applications/FreeRTOS/FreeRTOS_Mutexes/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM32446E_EVAL/Applications/FreeRTOS/FreeRTOS_Queues/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM32446E_EVAL/Applications/FreeRTOS/FreeRTOS_Semaphore/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM32446E_EVAL/Applications/FreeRTOS/FreeRTOS_SemaphoreFromISR/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM32446E_EVAL/Applications/FreeRTOS/FreeRTOS_ThreadCreation/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM32446E_EVAL/Applications/FreeRTOS/FreeRTOS_Timers/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM32446E_EVAL/Applications/LibJPEG/LibJPEG_Decoding/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM32446E_EVAL/Applications/LibJPEG/LibJPEG_Encoding/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM32446E_EVAL/Applications/STemWin/STemWin_HelloWorld/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM32446E_EVAL/Applications/STemWin/STemWin_SampleDemo/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM32446E_EVAL/Applications/USB_Device/AUDIO_Standalone/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM32446E_EVAL/Applications/USB_Device/CDC_Standalone/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM32446E_EVAL/Applications/USB_Device/CustomHID_Standalone/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM32446E_EVAL/Applications/USB_Device/DFU_Standalone/Binary/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM32446E_EVAL/Applications/USB_Device/DFU_Standalone/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM32446E_EVAL/Applications/USB_Device/DualCore_Standalone/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM32446E_EVAL/Applications/USB_Device/HID_LPM_Standalone/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM32446E_EVAL/Applications/USB_Device/HID_Standalone/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM32446E_EVAL/Applications/USB_Device/MSC_Standalone/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM32446E_EVAL/Applications/USB_Host/FWupgrade_Standalone/Binary/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM32446E_EVAL/Applications/USB_Host/FWupgrade_Standalone/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM32446E_EVAL/Applications/USB_Host/HID_RTOS/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM32446E_EVAL/Applications/USB_Host/HID_Standalone/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM32446E_EVAL/Applications/USB_Host/MSC_RTOS/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM32446E_EVAL/Applications/USB_Host/MSC_Standalone/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM32446E_EVAL/Demonstrations/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM32446E_EVAL/Examples/ADC/ADC_DualModeInterleaved/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM32446E_EVAL/Examples/ADC/ADC_InjectedConversion_Interrupt/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM32446E_EVAL/Examples/ADC/ADC_RegularConversion_DMA/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM32446E_EVAL/Examples/ADC/ADC_RegularConversion_Interrupt/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM32446E_EVAL/Examples/ADC/ADC_RegularConversion_Polling/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM32446E_EVAL/Examples/ADC/ADC_TriggerMode/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM32446E_EVAL/Examples/ADC/ADC_TripleModeInterleaved/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM32446E_EVAL/Examples/BSP/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM32446E_EVAL/Examples/CAN/CAN_Loopback/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM32446E_EVAL/Examples/CEC/CEC_DataExchange/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM32446E_EVAL/Examples/CEC/CEC_ListenMode/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM32446E_EVAL/Examples/CEC/CEC_MultiAddress/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM32446E_EVAL/Examples/Cortex/CORTEXM_ModePrivilege/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM32446E_EVAL/Examples/Cortex/CORTEXM_MPU/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM32446E_EVAL/Examples/Cortex/CORTEXM_SysTick/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM32446E_EVAL/Examples/CRC/CRC_Example/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM32446E_EVAL/Examples/DAC/DAC_SignalsGeneration/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM32446E_EVAL/Examples/DAC/DAC_SimpleConversion/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM32446E_EVAL/Examples/DCMI/DCMI_CaptureMode/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM32446E_EVAL/Examples/DCMI/DCMI_SnapshotMode/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM32446E_EVAL/Examples/DMA/DMA_FIFOMode/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM32446E_EVAL/Examples/DMA/DMA_FLASHToRAM/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM32446E_EVAL/Examples/FLASH/FLASH_EraseProgram/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM32446E_EVAL/Examples/FLASH/FLASH_WriteProtection/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM32446E_EVAL/Examples/FMC/FMC_SDRAM/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM32446E_EVAL/Examples/FMC/FMC_SDRAM_DataMemory/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM32446E_EVAL/Examples/FMC/FMC_SDRAM_LowPower/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM32446E_EVAL/Examples/GPIO/GPIO_EXTI/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM32446E_EVAL/Examples/GPIO/GPIO_IOToggle/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM32446E_EVAL/Examples/HAL/HAL_TimeBase/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM32446E_EVAL/Examples/I2C/FMPI2C_EEPROM/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM32446E_EVAL/Examples/IWDG/IWDG_Example/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM32446E_EVAL/Examples/PWR/PWR_STANDBY/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM32446E_EVAL/Examples/PWR/PWR_STOP/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM32446E_EVAL/Examples/QSPI/QSPI_ExecuteInPlace/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM32446E_EVAL/Examples/QSPI/QSPI_MemoryMapped/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM32446E_EVAL/Examples/QSPI/QSPI_ReadWrite_DMA/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM32446E_EVAL/Examples/QSPI/QSPI_ReadWrite_IT/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM32446E_EVAL/Examples/RCC/RCC_ClockConfig/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM32446E_EVAL/Examples/RTC/RTC_Alarm/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM32446E_EVAL/Examples/RTC/RTC_Calendar/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM32446E_EVAL/Examples/RTC/RTC_Tamper/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM32446E_EVAL/Examples/RTC/RTC_TimeStamp/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM32446E_EVAL/Examples/SAI/SAI_Audio/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM32446E_EVAL/Examples/SAI/SAI_AudioPlay/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM32446E_EVAL/Examples/TIM/TIM_6Steps/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM32446E_EVAL/Examples/TIM/TIM_7PWMOutput/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM32446E_EVAL/Examples/TIM/TIM_CascadeSynchro/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM32446E_EVAL/Examples/TIM/TIM_ComplementarySignals/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM32446E_EVAL/Examples/TIM/TIM_DMA/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM32446E_EVAL/Examples/TIM/TIM_DMABurst/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM32446E_EVAL/Examples/TIM/TIM_Encoder/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM32446E_EVAL/Examples/TIM/TIM_ExtTriggerSynchro/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM32446E_EVAL/Examples/TIM/TIM_InputCapture/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM32446E_EVAL/Examples/TIM/TIM_OCActive/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM32446E_EVAL/Examples/TIM/TIM_OCInactive/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM32446E_EVAL/Examples/TIM/TIM_OCToggle/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM32446E_EVAL/Examples/TIM/TIM_OnePulse/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM32446E_EVAL/Examples/TIM/TIM_ParallelSynchro/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM32446E_EVAL/Examples/TIM/TIM_PrescalerSelection/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM32446E_EVAL/Examples/TIM/TIM_PWMInput/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM32446E_EVAL/Examples/TIM/TIM_PWMOutput/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM32446E_EVAL/Examples/TIM/TIM_Synchronization/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM32446E_EVAL/Examples/TIM/TIM_TimeBase/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM32446E_EVAL/Examples/UART/UART_HyperTerminal_DMA/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM32446E_EVAL/Examples/UART/UART_HyperTerminal_IT/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM32446E_EVAL/Examples/UART/UART_Printf/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM32446E_EVAL/Examples/WWDG/WWDG_Example/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM32446E_EVAL/Templates/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM324x9I_EVAL/Applications/Audio/Audio_playback_and_record/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM324x9I_EVAL/Applications/Camera/Camera_To_USBDisk/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM324x9I_EVAL/Applications/Display/LTDC_AnimatedPictureFromSDCard/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM324x9I_EVAL/Applications/Display/LTDC_Paint/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM324x9I_EVAL/Applications/Display/LTDC_PicturesFromSDCard/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM324x9I_EVAL/Applications/FatFs/FatFs_MultiDrives/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM324x9I_EVAL/Applications/FatFs/FatFs_RAMDisk/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM324x9I_EVAL/Applications/FatFs/FatFs_RAMDisk_RTOS/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM324x9I_EVAL/Applications/FatFs/FatFs_USBDisk/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM324x9I_EVAL/Applications/FatFs/FatFs_USBDisk_MultipleAccess_RTOS/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM324x9I_EVAL/Applications/FatFs/FatFs_USBDisk_RTOS/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM324x9I_EVAL/Applications/FatFs/FatFs_uSD/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM324x9I_EVAL/Applications/FatFs/FatFs_uSD_RTOS/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM324x9I_EVAL/Applications/FreeRTOS/FreeRTOS_LowPower/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM324x9I_EVAL/Applications/FreeRTOS/FreeRTOS_Mutexes/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM324x9I_EVAL/Applications/FreeRTOS/FreeRTOS_Queues/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM324x9I_EVAL/Applications/FreeRTOS/FreeRTOS_Semaphore/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM324x9I_EVAL/Applications/FreeRTOS/FreeRTOS_SemaphoreFromISR/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM324x9I_EVAL/Applications/FreeRTOS/FreeRTOS_ThreadCreation/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM324x9I_EVAL/Applications/FreeRTOS/FreeRTOS_Timers/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM324x9I_EVAL/Applications/LibJPEG/LibJPEG_Decoding/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM324x9I_EVAL/Applications/LibJPEG/LibJPEG_Encoding/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM324x9I_EVAL/Applications/LwIP/LwIP_HTTP_Server_Netconn_RTOS/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM324x9I_EVAL/Applications/LwIP/LwIP_HTTP_Server_Raw/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM324x9I_EVAL/Applications/LwIP/LwIP_HTTP_Server_Socket_RTOS/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM324x9I_EVAL/Applications/LwIP/LwIP_IAP/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM324x9I_EVAL/Applications/LwIP/LwIP_TCP_Echo_Client/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM324x9I_EVAL/Applications/LwIP/LwIP_TCP_Echo_Server/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM324x9I_EVAL/Applications/LwIP/LwIP_TFTP_Server/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM324x9I_EVAL/Applications/LwIP/LwIP_UDPTCP_Echo_Server_Netconn_RTOS/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM324x9I_EVAL/Applications/LwIP/LwIP_UDP_Echo_Client/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM324x9I_EVAL/Applications/LwIP/LwIP_UDP_Echo_Server/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM324x9I_EVAL/Applications/PolarSSL/SSL_Client/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM324x9I_EVAL/Applications/PolarSSL/SSL_Server/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM324x9I_EVAL/Applications/STemWin/STemWin_HelloWorld/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM324x9I_EVAL/Applications/STemWin/STemWin_SampleDemo/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM324x9I_EVAL/Applications/USB_Device/AUDIO_Standalone/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM324x9I_EVAL/Applications/USB_Device/CDC_Standalone/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM324x9I_EVAL/Applications/USB_Device/CustomHID_Standalone/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM324x9I_EVAL/Applications/USB_Device/DFU_Standalone/Binary/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM324x9I_EVAL/Applications/USB_Device/DFU_Standalone/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM324x9I_EVAL/Applications/USB_Device/DualCore_Standalone/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM324x9I_EVAL/Applications/USB_Device/HID_Standalone/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM324x9I_EVAL/Applications/USB_Device/MSC_Standalone/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM324x9I_EVAL/Applications/USB_Host/AUDIO_Standalone/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM324x9I_EVAL/Applications/USB_Host/CDC_Standalone/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM324x9I_EVAL/Applications/USB_Host/DualCore_Standalone/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM324x9I_EVAL/Applications/USB_Host/DynamicSwitch_Standalone/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM324x9I_EVAL/Applications/USB_Host/FWupgrade_Standalone/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM324x9I_EVAL/Applications/USB_Host/HID_RTOS/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM324x9I_EVAL/Applications/USB_Host/HID_Standalone/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM324x9I_EVAL/Applications/USB_Host/MSC_RTOS/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM324x9I_EVAL/Applications/USB_Host/MSC_Standalone/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM324x9I_EVAL/Applications/USB_Host/MTP_Standalone/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM324x9I_EVAL/Demonstrations/MB1046/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM324x9I_EVAL/Demonstrations/MB1063/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM324x9I_EVAL/Examples/ADC/ADC_DualModeInterleaved/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM324x9I_EVAL/Examples/ADC/ADC_InjectedConversion_Interrupt/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM324x9I_EVAL/Examples/ADC/ADC_RegularConversion_DMA/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM324x9I_EVAL/Examples/ADC/ADC_RegularConversion_Interrupt/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM324x9I_EVAL/Examples/ADC/ADC_RegularConversion_Polling/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM324x9I_EVAL/Examples/ADC/ADC_TriggerMode/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM324x9I_EVAL/Examples/ADC/ADC_TripleModeInterleaved/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM324x9I_EVAL/Examples/BSP/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM324x9I_EVAL/Examples/CAN/CAN_LoopBack/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM324x9I_EVAL/Examples/CAN/CAN_Networking/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM324x9I_EVAL/Examples/Cortex/CORTEXM_ModePrivilege/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM324x9I_EVAL/Examples/Cortex/CORTEXM_MPU/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM324x9I_EVAL/Examples/Cortex/CORTEXM_SysTick/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM324x9I_EVAL/Examples/CRC/CRC_Example/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM324x9I_EVAL/Examples/CRYP/CRYP_AESModes/Expected_Results.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM324x9I_EVAL/Examples/CRYP/CRYP_AESModes/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM324x9I_EVAL/Examples/CRYP/CRYP_AES_CCM/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM324x9I_EVAL/Examples/CRYP/CRYP_AES_DMA/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM324x9I_EVAL/Examples/CRYP/CRYP_AES_GCM/Expected_Results.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM324x9I_EVAL/Examples/CRYP/CRYP_AES_GCM/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM324x9I_EVAL/Examples/CRYP/CRYP_DESTDESmodes/Expected_Results.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM324x9I_EVAL/Examples/CRYP/CRYP_DESTDESmodes/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM324x9I_EVAL/Examples/CRYP/CRYP_TDES_DMA/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM324x9I_EVAL/Examples/DAC/DAC_SignalsGeneration/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM324x9I_EVAL/Examples/DAC/DAC_SimpleConversion/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM324x9I_EVAL/Examples/DCMI/DCMI_CaptureMode/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM324x9I_EVAL/Examples/DCMI/DCMI_SnapshotMode/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM324x9I_EVAL/Examples/DMA/DMA_FIFOMode/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM324x9I_EVAL/Examples/DMA/DMA_FLASHToRAM/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM324x9I_EVAL/Examples/DMA2D/DMA2D_MemoryToMemory/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM324x9I_EVAL/Examples/DMA2D/DMA2D_MemToMemWithBlending/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM324x9I_EVAL/Examples/DMA2D/DMA2D_MemToMemWithLCD/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM324x9I_EVAL/Examples/DMA2D/DMA2D_MemToMemWithPFC/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM324x9I_EVAL/Examples/DMA2D/DMA2D_RegToMemWithLCD/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM324x9I_EVAL/Examples/FLASH/FLASH_DualBoot/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM324x9I_EVAL/Examples/FLASH/FLASH_EraseProgram/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM324x9I_EVAL/Examples/FLASH/FLASH_WriteProtection/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM324x9I_EVAL/Examples/FMC/FMC_SDRAM/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM324x9I_EVAL/Examples/FMC/FMC_SDRAM_DataMemory/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM324x9I_EVAL/Examples/FMC/FMC_SDRAM_LowPower/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM324x9I_EVAL/Examples/FMC/FMC_SRAM/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM324x9I_EVAL/Examples/FMC/FMC_SRAM_DataMemory/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM324x9I_EVAL/Examples/GPIO/GPIO_EXTI/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM324x9I_EVAL/Examples/GPIO/GPIO_IOToggle/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM324x9I_EVAL/Examples/HAL/HAL_TimeBase/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM324x9I_EVAL/Examples/HASH/HASH_HMAC_SHA1MD5/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM324x9I_EVAL/Examples/HASH/HASH_SHA1MD5/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM324x9I_EVAL/Examples/HASH/HASH_SHA1MD5_DMA/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM324x9I_EVAL/Examples/HASH/HASH_SHA224SHA256_DMA/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM324x9I_EVAL/Examples/I2C/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM324x9I_EVAL/Examples/I2S/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM324x9I_EVAL/Examples/IWDG/IWDG_Example/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM324x9I_EVAL/Examples/LTDC/LTDC_ColorKeying/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM324x9I_EVAL/Examples/LTDC/LTDC_Display_1Layer/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM324x9I_EVAL/Examples/LTDC/LTDC_Display_2Layers/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM324x9I_EVAL/Examples/PWR/PWR_BOR/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM324x9I_EVAL/Examples/PWR/PWR_CurrentConsumption/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM324x9I_EVAL/Examples/PWR/PWR_PVD/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM324x9I_EVAL/Examples/PWR/PWR_STANDBY/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM324x9I_EVAL/Examples/PWR/PWR_STOP/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM324x9I_EVAL/Examples/RCC/RCC_ClockConfig/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM324x9I_EVAL/Examples/RNG/RNG_MultiRNG/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM324x9I_EVAL/Examples/RTC/RTC_Alarm/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM324x9I_EVAL/Examples/RTC/RTC_Calendar/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM324x9I_EVAL/Examples/RTC/RTC_Tamper/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM324x9I_EVAL/Examples/RTC/RTC_TimeStamp/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM324x9I_EVAL/Examples/SAI/SAI_Audio/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM324x9I_EVAL/Examples/SDIO/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM324x9I_EVAL/Examples/SPI/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM324x9I_EVAL/Examples/TIM/TIM_6Steps/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM324x9I_EVAL/Examples/TIM/TIM_7PWMOutput/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM324x9I_EVAL/Examples/TIM/TIM_CascadeSynchro/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM324x9I_EVAL/Examples/TIM/TIM_ComplementarySignals/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM324x9I_EVAL/Examples/TIM/TIM_DMA/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM324x9I_EVAL/Examples/TIM/TIM_DMABurst/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM324x9I_EVAL/Examples/TIM/TIM_Encoder/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM324x9I_EVAL/Examples/TIM/TIM_ExtTriggerSynchro/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM324x9I_EVAL/Examples/TIM/TIM_InputCapture/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM324x9I_EVAL/Examples/TIM/TIM_OCActive/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM324x9I_EVAL/Examples/TIM/TIM_OCInactive/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM324x9I_EVAL/Examples/TIM/TIM_OCToggle/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM324x9I_EVAL/Examples/TIM/TIM_OnePulse/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM324x9I_EVAL/Examples/TIM/TIM_ParallelSynchro/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM324x9I_EVAL/Examples/TIM/TIM_Prescaler_Selection/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM324x9I_EVAL/Examples/TIM/TIM_PWMInput/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM324x9I_EVAL/Examples/TIM/TIM_PWMOutput/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM324x9I_EVAL/Examples/TIM/TIM_Synchronization/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM324x9I_EVAL/Examples/TIM/TIM_TimeBase/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM324x9I_EVAL/Examples/UART/UART_Hyperterminal_DMA/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM324x9I_EVAL/Examples/UART/UART_Hyperterminal_IT/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM324x9I_EVAL/Examples/UART/UART_Printf/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM324x9I_EVAL/Examples/WWDG/WWDG_Example/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM324x9I_EVAL/Templates/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM324xG_EVAL/Applications/Camera/Camera_To_USBDisk/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM324xG_EVAL/Applications/Display/LCD_Paint/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM324xG_EVAL/Applications/FatFs/FatFs_MultiDrives/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM324xG_EVAL/Applications/FatFs/FatFs_RAMDisk/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM324xG_EVAL/Applications/FatFs/FatFs_RAMDisk_RTOS/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM324xG_EVAL/Applications/FatFs/FatFs_USBDisk/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM324xG_EVAL/Applications/FatFs/FatFs_USBDisk_MultipleAccess_RTOS/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM324xG_EVAL/Applications/FatFs/FatFs_USBDisk_RTOS/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM324xG_EVAL/Applications/FatFs/FatFs_uSD/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM324xG_EVAL/Applications/FatFs/FatFs_uSD_RTOS/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM324xG_EVAL/Applications/FreeRTOS/FreeRTOS_LowPower/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM324xG_EVAL/Applications/FreeRTOS/FreeRTOS_Mutexes/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM324xG_EVAL/Applications/FreeRTOS/FreeRTOS_Queues/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM324xG_EVAL/Applications/FreeRTOS/FreeRTOS_Semaphore/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM324xG_EVAL/Applications/FreeRTOS/FreeRTOS_SemaphoreFromISR/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM324xG_EVAL/Applications/FreeRTOS/FreeRTOS_ThreadCreation/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM324xG_EVAL/Applications/FreeRTOS/FreeRTOS_Timers/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM324xG_EVAL/Applications/LibJPEG/LibJPEG_Decoding/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM324xG_EVAL/Applications/LibJPEG/LibJPEG_Encoding/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM324xG_EVAL/Applications/LwIP/LwIP_HTTP_Server_Netconn_RTOS/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM324xG_EVAL/Applications/LwIP/LwIP_HTTP_Server_Raw/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM324xG_EVAL/Applications/LwIP/LwIP_HTTP_Server_Socket_RTOS/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM324xG_EVAL/Applications/LwIP/LwIP_IAP/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM324xG_EVAL/Applications/LwIP/LwIP_TCP_Echo_Client/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM324xG_EVAL/Applications/LwIP/LwIP_TCP_Echo_Server/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM324xG_EVAL/Applications/LwIP/LwIP_TFTP_Server/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM324xG_EVAL/Applications/LwIP/LwIP_UDPTCP_Echo_Server_Netconn_RTOS/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM324xG_EVAL/Applications/LwIP/LwIP_UDP_Echo_Client/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM324xG_EVAL/Applications/LwIP/LwIP_UDP_Echo_Server/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM324xG_EVAL/Applications/PolarSSL/SSL_Client/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM324xG_EVAL/Applications/PolarSSL/SSL_Server/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM324xG_EVAL/Applications/STemWin/STemWin_HelloWorld/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM324xG_EVAL/Applications/STemWin/STemWin_SampleDemo/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM324xG_EVAL/Applications/USB_Device/AUDIO_Standalone/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM324xG_EVAL/Applications/USB_Device/CDC_Standalone/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM324xG_EVAL/Applications/USB_Device/CustomHID_Standalone/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM324xG_EVAL/Applications/USB_Device/DFU_Standalone/Binary/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM324xG_EVAL/Applications/USB_Device/DFU_Standalone/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM324xG_EVAL/Applications/USB_Device/DualCore_Standalone/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM324xG_EVAL/Applications/USB_Device/HID_Standalone/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM324xG_EVAL/Applications/USB_Device/MSC_Standalone/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM324xG_EVAL/Applications/USB_Host/AUDIO_Standalone/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM324xG_EVAL/Applications/USB_Host/CDC_Standalone/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM324xG_EVAL/Applications/USB_Host/DualCore_Standalone/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM324xG_EVAL/Applications/USB_Host/DynamicSwitch_Standalone/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM324xG_EVAL/Applications/USB_Host/FWupgrade_Standalone/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM324xG_EVAL/Applications/USB_Host/HID_RTOS/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM324xG_EVAL/Applications/USB_Host/HID_Standalone/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM324xG_EVAL/Applications/USB_Host/MSC_RTOS/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM324xG_EVAL/Applications/USB_Host/MSC_Standalone/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM324xG_EVAL/Applications/USB_Host/MTP_Standalone/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM324xG_EVAL/Demonstrations/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM324xG_EVAL/Examples/ADC/ADC_DualModeInterleaved/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM324xG_EVAL/Examples/ADC/ADC_InjectedConversion_Interrupt/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM324xG_EVAL/Examples/ADC/ADC_RegularConversion_DMA/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM324xG_EVAL/Examples/ADC/ADC_RegularConversion_Interrupt/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM324xG_EVAL/Examples/ADC/ADC_RegularConversion_Polling/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM324xG_EVAL/Examples/ADC/ADC_TriggerMode/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM324xG_EVAL/Examples/ADC/ADC_TripleModeInterleaved/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM324xG_EVAL/Examples/BSP/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM324xG_EVAL/Examples/CAN/CAN_LoopBack/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM324xG_EVAL/Examples/CAN/CAN_Networking/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM324xG_EVAL/Examples/Cortex/CORTEXM_ModePrivilege/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM324xG_EVAL/Examples/Cortex/CORTEXM_MPU/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM324xG_EVAL/Examples/Cortex/CORTEXM_SysTick/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM324xG_EVAL/Examples/CRC/CRC_Example/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM324xG_EVAL/Examples/CRYP/CRYP_AESModes/Expected_Results.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM324xG_EVAL/Examples/CRYP/CRYP_AESModes/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM324xG_EVAL/Examples/CRYP/CRYP_AES_DMA/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM324xG_EVAL/Examples/CRYP/CRYP_DESTDESmodes/Expected_Results.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM324xG_EVAL/Examples/CRYP/CRYP_DESTDESmodes/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM324xG_EVAL/Examples/CRYP/CRYP_TDES_DMA/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM324xG_EVAL/Examples/DAC/DAC_SignalsGeneration/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM324xG_EVAL/Examples/DAC/DAC_SimpleConversion/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM324xG_EVAL/Examples/DCMI/DCMI_CaptureMode/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM324xG_EVAL/Examples/DCMI/DCMI_SnapshotMode/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM324xG_EVAL/Examples/DMA/DMA_FIFOMode/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM324xG_EVAL/Examples/DMA/DMA_FLASHToRAM/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM324xG_EVAL/Examples/FLASH/FLASH_EraseProgram/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM324xG_EVAL/Examples/FLASH/FLASH_WriteProtection/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM324xG_EVAL/Examples/FSMC/FSMC_SRAM/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM324xG_EVAL/Examples/FSMC/FSMC_SRAM_DataMemory/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM324xG_EVAL/Examples/GPIO/GPIO_EXTI/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM324xG_EVAL/Examples/GPIO/GPIO_IOToggle/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM324xG_EVAL/Examples/HAL/HAL_TimeBase/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM324xG_EVAL/Examples/HASH/HASH_HMAC_SHA1MD5/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM324xG_EVAL/Examples/HASH/HASH_SHA1MD5/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM324xG_EVAL/Examples/HASH/HASH_SHA1MD5_DMA/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM324xG_EVAL/Examples/I2C/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM324xG_EVAL/Examples/I2S/I2S_Audio/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM324xG_EVAL/Examples/IWDG/IWDG_Example/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM324xG_EVAL/Examples/PWR/PWR_BOR/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM324xG_EVAL/Examples/PWR/PWR_CurrentConsumption/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM324xG_EVAL/Examples/PWR/PWR_PVD/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM324xG_EVAL/Examples/PWR/PWR_STANDBY/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM324xG_EVAL/Examples/PWR/PWR_STOP/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM324xG_EVAL/Examples/RCC/RCC_ClockConfig/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM324xG_EVAL/Examples/RNG/RNG_MultiRNG/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM324xG_EVAL/Examples/RTC/RTC_Alarm/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM324xG_EVAL/Examples/RTC/RTC_Calendar/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM324xG_EVAL/Examples/RTC/RTC_Tamper/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM324xG_EVAL/Examples/RTC/RTC_TimeStamp/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM324xG_EVAL/Examples/SDIO/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM324xG_EVAL/Examples/SMARTCARD/SMARTCARD_T0/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM324xG_EVAL/Examples/SPI/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM324xG_EVAL/Examples/TIM/TIM_6Steps/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM324xG_EVAL/Examples/TIM/TIM_7PWMOutput/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM324xG_EVAL/Examples/TIM/TIM_CascadeSynchro/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM324xG_EVAL/Examples/TIM/TIM_ComplementarySignals/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM324xG_EVAL/Examples/TIM/TIM_DMA/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM324xG_EVAL/Examples/TIM/TIM_DMABurst/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM324xG_EVAL/Examples/TIM/TIM_Encoder/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM324xG_EVAL/Examples/TIM/TIM_ExtTriggerSynchro/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM324xG_EVAL/Examples/TIM/TIM_InputCapture/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM324xG_EVAL/Examples/TIM/TIM_OCActive/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM324xG_EVAL/Examples/TIM/TIM_OCInactive/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM324xG_EVAL/Examples/TIM/TIM_OCToggle/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM324xG_EVAL/Examples/TIM/TIM_OnePulse/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM324xG_EVAL/Examples/TIM/TIM_ParallelSynchro/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM324xG_EVAL/Examples/TIM/TIM_PWMInput/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM324xG_EVAL/Examples/TIM/TIM_PWMOutput/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM324xG_EVAL/Examples/TIM/TIM_Synchronization/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM324xG_EVAL/Examples/TIM/TIM_TimeBase/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM324xG_EVAL/Examples/UART/UART_Hyperterminal_DMA/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM324xG_EVAL/Examples/UART/UART_Hyperterminal_IT/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM324xG_EVAL/Examples/UART/UART_Printf/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM324xG_EVAL/Examples/WWDG/WWDG_Example/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM324xG_EVAL/Templates/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM32F4-Discovery/Applications/Audio/Audio_playback_and_record/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM32F4-Discovery/Applications/FatFs/FatFs_USBDisk/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM32F4-Discovery/Demonstrations/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM32F4-Discovery/Examples/ADC/ADC_RegularConversion_DMA/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM32F4-Discovery/Examples/BSP/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM32F4-Discovery/Examples/DAC/DAC_SignalsGeneration/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM32F4-Discovery/Examples/DMA/DMA_FLASHToRAM/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM32F4-Discovery/Examples/FLASH/FLASH_EraseProgram/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM32F4-Discovery/Examples/GPIO/GPIO_EXTI/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM32F4-Discovery/Examples/HAL/HAL_TimeBase/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM32F4-Discovery/Examples/I2C/I2C_TwoBoards_AdvComIT/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM32F4-Discovery/Examples/I2C/I2C_TwoBoards_ComDMA/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM32F4-Discovery/Examples/I2C/I2C_TwoBoards_ComIT/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM32F4-Discovery/Examples/I2C/I2C_TwoBoards_ComPolling/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM32F4-Discovery/Examples/PWR/PWR_CurrentConsumption/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM32F4-Discovery/Examples/RCC/RCC_ClockConfig/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM32F4-Discovery/Examples/SPI/SPI_FullDuplex_AdvComIT/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM32F4-Discovery/Examples/SPI/SPI_FullDuplex_AdvComPolling/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM32F4-Discovery/Examples/SPI/SPI_FullDuplex_ComDMA/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM32F4-Discovery/Examples/SPI/SPI_FullDuplex_ComIT/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM32F4-Discovery/Examples/SPI/SPI_FullDuplex_ComPolling/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM32F4-Discovery/Examples/TIM/TIM_PWMInput/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM32F4-Discovery/Examples/TIM/TIM_TimeBase/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM32F4-Discovery/Examples/UART/UART_TwoBoards_ComDMA/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM32F4-Discovery/Examples/UART/UART_TwoBoards_ComIT/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM32F4-Discovery/Examples/UART/UART_TwoBoards_ComPolling/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Repository/STM32Cube_FW_F4_V1.5.0/Projects/STM32F4-Discovery/Templates/readme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/STM32Cube/STM32CubeMX/db/plugins/libextractor/template_config_xml_v1.0.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/STM32Cube/STM32CubeMX/db/plugins/libextractor/template_config_xml_v1.1.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/STM32Cube/STM32CubeMX/db/plugins/projectmanager/templates/launch.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/STM32Cube/STM32CubeMX/db/plugins/projectmanager/templates/prefs.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/STM32Cube/STM32CubeMX/db/templates/graphics/TgfxTemplate/prj/build/MINGW32_NT-6.2/image_files.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/STM32Cube/STM32CubeMX/db/templates/graphics/TgfxTemplate/prj/generated/fonts/UnicodeListverdana_10_4.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/STM32Cube/STM32CubeMX/db/templates/graphics/TgfxTemplate/prj/generated/fonts/UnicodeListverdana_20_4.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/STM32Cube/STM32CubeMX/db/templates/graphics/TgfxTemplate/prj/generated/fonts/UnicodeListverdana_40_4.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/STM32Cube/STM32CubeMX/help/ThirdPartyLicenseReadme.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Программа для SPI/Archive/2014.2.12 21.19.35.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Программа для SPI/Calibration/Копия Акселерометр на 200ж.txt
+/z/Методические материалы/ЦУиМП/Дневное отделение/Часть 1. Микроконтроллеры/ПО/Работа с COM портом/ComMon/ttt.txt
+/z/Методические материалы/ЦУиМП/Заочное отделение/Методические пособия/Lab_9_PC/Archive/2014.2.12 21.19.35.txt
+/z/Методические материалы/ЦУиМП/Заочное отделение/Методические пособия/Lab_9_PC/Calibration/Копия Акселерометр на 200ж.txt
+/z/Методические материалы/ЦУиМП/Заочное отделение/Методические пособия/Примечание к лаб 5.txt
+/z/Методические материалы/ЦУиМП/Заочное отделение/ПО/Работа с COM портом/ComMon/ttt.txt
+/z/Методические материалы/ЦУиМП/Китай/Курсовые работы.txt
+/z/Методические материалы/ЦУиМП/Китай/Новый текстовый документ.txt
